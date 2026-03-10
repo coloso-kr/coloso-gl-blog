@@ -19,7 +19,17 @@ const finalWidth = shouldUseCustomWidth ? `${widthValue}rem` : '25rem'
 
 <html lang={language}>
   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
     <meta name="google-site-verification" content="v6BNmC6aPQ2ou0_1Zkkptrte2K8lKlCsEiLRTp70tvk" />
+
+    {/* 1. 파비콘 설정: public 폴더의 favicon.svg를 사용합니다 */}
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    {/* 2. SEO 및 사이트 정보 설정 */}
+    <title>{themeConfig.site.title}</title>
+    <meta name="description" content={themeConfig.site.description} />
+    <meta name="author" content={themeConfig.site.author} />
 
     <ThemeManager />
     {fadeAnimation && <ClientRouter />}
