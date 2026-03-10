@@ -2,8 +2,12 @@
 title: 'About'
 ---
 
-# 최고에게 배우는 최상의 가치, Coloso
+# Learn the best, from the best.
 
-업계 최고 전문가들의 실무 경험을 한곳에 모았습니다.
+Coloso seeks to lift your skills to the level of giants.
 
-동경하던 아티스트의 실무 스킬부터 실무자들의 시크릿 레시피까지. 배움의 갈증을 해소하고, 어제보다 더 성장한 나를 만나는 시간을 콜로소와 함께 시작해 보세요.
+Our online classes come with real-world exercises and tips taught by leading experts from their respective creative industries.
+
+Forget the mundane textbook tutorials you can't apply to real-life.
+
+Join us now, and take your skills to the next level—anytime, anywhere.
