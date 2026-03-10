@@ -19,7 +19,7 @@ tags:
 
 ## 🧐 Why Your Illustrations Might Lack That "Wow" Factor (and How to Fix It)
 
-![강의 이미지 1](https://cdn.day1company.io/prod/uploads/202401/132719-569/kr-illustrator-okku2-portfolio-01.webp)
+![Image 1](https://cdn.day1company.io/prod/uploads/202401/132719-569/kr-illustrator-okku2-portfolio-01.webp)
 
 There's that moment when you've got a solid plan, you've gathered references, and you start drawing, but the final output just doesn't *pop*. It feels… off. Often, the issue isn't a lack of skill, but how you're *using* those references. Concept Artist Okku emphasizes that simply copying references is a dead end. The real magic happens when you internalize principles and adapt them to your unique vision. This course dives into that crucial difference.
 
@@ -51,7 +51,7 @@ Concept Artist Okku shares her refined process for turning inspiration into trul
 
 ## 🛠️ Key Skills & Details That Define Professional Quality
 
-![강의 이미지 2](https://cdn.day1company.io/prod/uploads/202401/170433-569/kr-illustrator-okku2-portfolio-02.webp)
+![Image 2](https://cdn.day1company.io/prod/uploads/202401/170433-569/kr-illustrator-okku2-portfolio-02.webp)
 
 Concept Artist Okku emphasizes that professional quality in illustrations stems from a deep understanding of *how* to apply techniques, not just knowing them. This involves:
 
