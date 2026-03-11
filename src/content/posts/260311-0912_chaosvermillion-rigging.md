@@ -29,7 +29,7 @@ tags:
 **The Finishing Detail:** Static models feel lifeless. Physics in Live2D isn't just for hair; it's about adding natural reactivity to the entire character.
 **The Insight:** Use the Pendulum physics settings not just for hair or accessories, but for subtle body movements, ear twitches, or tail wiggles. Adjusting weight and gravity can make a character feel more grounded and alive. For instance, a slight pendulum effect on the body can simulate breathing or a natural sway when idle, drastically enhancing the model's personality.
 
-👉 **[Learn More] (https://x.com/ChaosVermillion)**
+👉 **[Learn More] (https://coloso.global/en/products/live2danimator-chaosvermillion-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_live2danimator-chaosvermillion-us_auto_all&utm_content=mediadesign_live2danimator-chaosvermillion-us_en-gsd-autoblog-rigging-post-260311)**
 
 ---
 
@@ -65,7 +65,7 @@ Moving beyond basic rigging, professionals consistently leverage specific techni
 
 ## 👉 Want to Go Deeper?
 
-- **[See Chaos Vermillion's Full Curriculum] (https://x.com/ChaosVermillion)**
+- **[See Chaos Vermillion's Full Curriculum] (https://coloso.global/en/products/live2danimator-chaosvermillion-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_live2danimator-chaosvermillion-us_auto_all&utm_content=mediadesign_live2danimator-chaosvermillion-us_en-gsd-autoblog-rigging-post-260311)**
 
 
 
