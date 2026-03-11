@@ -1,13 +1,13 @@
 ---
 title: "Mastering Live2D Animation: Key Insights from Chaos Vermillion"
-description: "chaosvermillion's mediadesign course review"
+description: "Chaos Vermillion's mediadesign course review"
 pubDate: "2026-03-11"
 updatedDate: "2026-03-11"
-author: "chaosvermillion"
+author: "Chaos Vermillion"
 slug: "live2danimator-chaosvermillion-us-live2d-260311"
 heroImage: "https://cdn.day1company.io/prod/uploads/202509/110714-2006/og-live2danimator-chaosvermillion-us.jpg"
 course_id: "256702"
-instructor: "chaosvermillion"
+instructor: "Chaos Vermillion"
 category: "mediadesign"
 tags:
   - "mediadesign"
