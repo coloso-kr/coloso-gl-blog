@@ -65,7 +65,7 @@ A. Chaos Vermillion highlights efficiency, a passion for experimentation with ne
 
 ## 👉 Want to Go Deeper?
 
-- **[See chaosvermillion's Full Curriculum](https://coloso.global/en/products/live2danimator-chaosvermillion-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_live2danimator-chaosvermillion-us_auto_all&utm_content=mediadesign_live2danimator-chaosvermillion-us_gsd-autoblog-live2d-post-260311)**
+- **[See Chaos Vermillion's Full Curriculum](https://coloso.global/en/products/live2danimator-chaosvermillion-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_live2danimator-chaosvermillion-us_auto_all&utm_content=mediadesign_live2danimator-chaosvermillion-us_gsd-autoblog-live2d-post-260311)**
 
 
 
