@@ -34,7 +34,7 @@ Connecting separate hard-surface elements, like straps or armor pieces, can be t
 ### 3. The 'Angle' & 'Silhouette' Game Changer for Expressive Faces
 A truly compelling cartoon character hinges on its silhouette and key angles, especially for the face. The script highlights using **Move brush to establish the primary head shape**, focusing on a basic egg-like form with a sharp jawline. Critically, pay attention to the **45° profile view** to define the nose tip, philtrum, and chin placement. The subtle tilt of the cheekbone and the overall roundness of the head are vital for conveying character. Don't over-divide initially; rough out the main forms with low subdivision levels and refine details later.
 
-👉 **[Learn More](https://coloso.global/en/products/3dcharacterartist-kangseihoon-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_3dcharacterartist-kangseihoon-us_auto_all&utm_content=game_3dcharacterartist-kangseihoon-us_gsd-autoblog-zbrush-post-260310)**
+👉 **[Learn More](https://coloso.global/en/products/3dcharacterartist-kangseihoon-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_3dcharacterartist-kangseihoon-us_auto_all&utm_content=game_3dcharacterartist-kangseihoon-us_en-gsd-autoblog-zbrush-post-260310)**
 
 ---
 
@@ -69,7 +69,7 @@ A. The focus is on establishing a strong base silhouette and key angles early on
 
 ## 👉 Want to Go Deeper?
 
-- **[See 3D Character Artist, Seihoon Kang's Full Curriculum](https://coloso.global/en/products/3dcharacterartist-kangseihoon-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_3dcharacterartist-kangseihoon-us_auto_all&utm_content=game_3dcharacterartist-kangseihoon-us_gsd-autoblog-zbrush-post-260310)**
+- **[See 3D Character Artist, Seihoon Kang's Full Curriculum](https://coloso.global/en/products/3dcharacterartist-kangseihoon-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_3dcharacterartist-kangseihoon-us_auto_all&utm_content=game_3dcharacterartist-kangseihoon-us_en-gsd-autoblog-zbrush-post-260310)**
 
 
 

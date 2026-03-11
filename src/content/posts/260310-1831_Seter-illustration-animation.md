@@ -26,7 +26,7 @@ Most pros leverage keyframes not just for basic position or scale changes, but f
 ### 3. The "One Extra Step": Refining with VFX and Detail
 Beyond basic animation, it's the subtle additions that elevate your work. **Seter's signature approach** involves integrating specific visual effects (VFX) not just as decoration, but as an integral part of the narrative. Whether it's stylized fire effects or subtle atmospheric elements, understanding how to create and composite these seamlessly with your animated illustration is key. This often means a small, extra pass focusing on particle systems, displacement maps, or fractal noise to add depth and visual interest that matches the illustration's original style.
 
-👉 **[Learn More](https://coloso.global/en/products/2danimator-seter-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_2danimator-seter-us_auto_all&utm_content=mediadesign_2danimator-seter-us_gsd-autoblog-illustration-animation-post-260310)**
+👉 **[Learn More](https://coloso.global/en/products/2danimator-seter-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_2danimator-seter-us_auto_all&utm_content=mediadesign_2danimator-seter-us_en-gsd-autoblog-illustration-animation-post-260310)**
 
 ---
 
@@ -64,7 +64,7 @@ According to **2danimator Seter**, the most crucial trait is building trust and 
 ## 👉 Want to Go Deeper?
 Learn these professional techniques directly from a seasoned 2D Animator.
 
-- **[See Seter's Full Curriculum](https://coloso.global/en/products/2danimator-seter-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_2danimator-seter-us_auto_all&utm_content=mediadesign_2danimator-seter-us_gsd-autoblog-illustration-animation-post-260310)**
+- **[See Seter's Full Curriculum](https://coloso.global/en/products/2danimator-seter-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_2danimator-seter-us_auto_all&utm_content=mediadesign_2danimator-seter-us_en-gsd-autoblog-illustration-animation-post-260310)**
 
 
 

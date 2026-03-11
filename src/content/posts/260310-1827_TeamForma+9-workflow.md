@@ -34,7 +34,7 @@ Team Forma+9 leverages a unique production process that maximizes efficiency for
 ### 3. The Finishing Detail: Elevating Emotion Through Collaboration
 Technical Director Sun Lee stresses that animation is a collaborative art. The key to truly impactful animation lies in effective teamwork and communication. **Ensure clear roles and responsibilities** are established early on. Understanding how to integrate feedback and maintain a unified vision across the team is critical for that final polish.
 
-👉 **[Learn More](https://coloso.global/en/products/project-teamformat9-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_project-teamformat9-us_auto_all&utm_content=mediadesign_project-teamformat9-us_gsd-autoblog-workflow-post-260310)**
+👉 **[Learn More](https://coloso.global/en/products/project-teamformat9-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_project-teamformat9-us_auto_all&utm_content=mediadesign_project-teamformat9-us_en-gsd-autoblog-workflow-post-260310)**
 
 ---
 
@@ -69,7 +69,7 @@ A. Learners will gain hands-on experience through practical exercises, enhancing
 ---
 
 ## 👉 Want to Go Deeper?
-- **[See TeamForma+9's Full Curriculum](https://coloso.global/en/products/project-teamformat9-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_project-teamformat9-us_auto_all&utm_content=mediadesign_project-teamformat9-us_gsd-autoblog-workflow-post-260310)**
+- **[See TeamForma+9's Full Curriculum](https://coloso.global/en/products/project-teamformat9-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_project-teamformat9-us_auto_all&utm_content=mediadesign_project-teamformat9-us_en-gsd-autoblog-workflow-post-260310)**
 
 
 

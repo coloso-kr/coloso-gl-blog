@@ -45,7 +45,7 @@ Don't limit yourself to a single Array Modifier. The true power comes from stack
 *   **The Technique:** For instance, you can use one Array to create a row of objects, then add a second Array to duplicate that entire row upwards or sideways. This allows for the creation of complex, layered structures like grids, towers, or intricate patterns with minimal effort.
 *   **The Result:** This creates a procedural pipeline. If you decide to modify the original object, *all* subsequent array copies will update automatically. This non-destructive approach is a cornerstone of efficient 3D modeling.
 
-👉 **[See kevingnutzmans's Full Curriculum](https://coloso.global/en/products/conceptartist-kevingnutzmans-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_conceptartist-kevingnutzmans-us_auto_all&utm_content=illust_conceptartist-kevingnutzmans-us_gsd-autoblog-blender-array-post-260310)**
+👉 **[See kevingnutzmans's Full Curriculum](https://coloso.global/en/products/conceptartist-kevingnutzmans-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_conceptartist-kevingnutzmans-us_auto_all&utm_content=illust_conceptartist-kevingnutzmans-us_en-gsd-autoblog-blender-array-post-260310)**
 
 ---
 
@@ -81,7 +81,7 @@ A. conceptartist kevingnutzmans frequently uses the Array Modifier for tasks lik
 
 Ready to transform your workflow and start building incredible 2D worlds with 3D foundations? Dive into the full curriculum and unlock kevingnutzmans's complete workflow.
 
-- **[See kevingnutzmans's Full Curriculum](https://coloso.global/en/products/conceptartist-kevingnutzmans-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_conceptartist-kevingnutzmans-us_auto_all&utm_content=illust_conceptartist-kevingnutzmans-us_gsd-autoblog-blender-array-post-260310)**
+- **[See kevingnutzmans's Full Curriculum](https://coloso.global/en/products/conceptartist-kevingnutzmans-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_conceptartist-kevingnutzmans-us_auto_all&utm_content=illust_conceptartist-kevingnutzmans-us_en-gsd-autoblog-blender-array-post-260310)**
 
 
 

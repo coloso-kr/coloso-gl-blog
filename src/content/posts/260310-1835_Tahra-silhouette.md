@@ -34,7 +34,7 @@ Don't discard your initial thumbnail sketches! Tahra points out that these rough
 ### 3. The Power of the "Real-World" Check
 Designs often fall apart when they don't consider basic physics. Tahra stresses the importance of performing a "real-world" check on your designs. **Ask yourself: How would this armor attach? Can this fabric realistically support the weight of this accessory?** Even small details like the thickness of overlapping materials or the placement of a fixing device can dramatically impact the believability and logic of your character's silhouette.
 
-👉 **[Learn More](https://coloso.global/en/products/50chapter-tahra-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_50chapter-tahra-us_auto_all&utm_content=illust_50chapter-tahra-us_gsd-autoblog-silhouette-post-260310)**
+👉 **[Learn More](https://coloso.global/en/products/50chapter-tahra-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_50chapter-tahra-us_auto_all&utm_content=illust_50chapter-tahra-us_en-gsd-autoblog-silhouette-post-260310)**
 
 ---
 
@@ -70,7 +70,7 @@ Concept Artist Tahra achieves believable material rendering through a combinatio
 
 ## 👉 Want to Go Deeper?
 
-- **[See Tahra's Full Curriculum](https://coloso.global/en/products/50chapter-tahra-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_50chapter-tahra-us_auto_all&utm_content=illust_50chapter-tahra-us_gsd-autoblog-silhouette-post-260310)**
+- **[See Tahra's Full Curriculum](https://coloso.global/en/products/50chapter-tahra-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_50chapter-tahra-us_auto_all&utm_content=illust_50chapter-tahra-us_en-gsd-autoblog-silhouette-post-260310)**
 
 
 

@@ -34,7 +34,7 @@ Most pros don't just know the tools; they have ingrained workflows. Tobey shares
 ### 3. The "One Extra Step" for That Professional Polish
 What separates a good sculpt from a collectible art toy? It's often the attention to detail in the final stages. Tobey highlights the importance of careful part separation for assembly and precise joint design. Beyond the initial sculpt, focus on how each piece will fit together, how the joints will allow for posing, and how the model will be optimized for 3D printing. This might involve adding chamfers to edges for easier sanding or incorporating tolerances for snug fits – small details that make a huge difference in the final physical output.
 
-👉 **[Learn More](https://coloso.global/en/products/arttoyartist-tobey-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_arttoyartist-tobey-us_auto_all&utm_content=mediadesign_arttoyartist-tobey-us_gsd-autoblog-zbrush-post-260310)**
+👉 **[Learn More](https://coloso.global/en/products/arttoyartist-tobey-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_arttoyartist-tobey-us_auto_all&utm_content=mediadesign_arttoyartist-tobey-us_en-gsd-autoblog-zbrush-post-260310)**
 
 ---
 
@@ -69,7 +69,7 @@ A. Absolutely. The class is structured around creating an exclusive Coloso chara
 
 ## 👉 Want to Go Deeper?
 
-- **[See tobey's Full Curriculum](https://coloso.global/en/products/arttoyartist-tobey-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_arttoyartist-tobey-us_auto_all&utm_content=mediadesign_arttoyartist-tobey-us_gsd-autoblog-zbrush-post-260310)**
+- **[See tobey's Full Curriculum](https://coloso.global/en/products/arttoyartist-tobey-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_arttoyartist-tobey-us_auto_all&utm_content=mediadesign_arttoyartist-tobey-us_en-gsd-autoblog-zbrush-post-260310)**
 
 
 

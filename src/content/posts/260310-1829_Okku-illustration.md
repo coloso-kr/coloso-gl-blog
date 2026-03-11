@@ -45,7 +45,7 @@ Concept Artist Okku shares her refined process for turning inspiration into trul
 *   **The Finishing Detail:** The key to effective referencing is identifying your *specific* weaknesses. Don't just browse; actively seek out references that address areas where your current skills are lacking.
 *   **Okku's Process:** Before you even start sketching, analyze your plan and pinpoint exactly what you don't know how to draw well. Then, search for references that directly help you overcome that specific challenge. This targeted approach makes your drawing process far more efficient and impactful.
 
-👉 **[Learn More](https://coloso.global/en/products/conceptartist-okku2-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_conceptartist-okku2-us_auto_all&utm_content=illust_conceptartist-okku2-us_gsd-autoblog-illustration-post-260310)**
+👉 **[Learn More](https://coloso.global/en/products/conceptartist-okku2-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_conceptartist-okku2-us_auto_all&utm_content=illust_conceptartist-okku2-us_en-gsd-autoblog-illustration-post-260310)**
 
 ---
 
@@ -82,7 +82,7 @@ A. conceptartist Okku emphasizes that storytelling in illustrations comes from i
 
 ## 👉 Want to Go Deeper?
 
-*   **[See Okku's Full Curriculum](https://coloso.global/en/products/conceptartist-okku2-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_conceptartist-okku2-us_auto_all&utm_content=illust_conceptartist-okku2-us_gsd-autoblog-illustration-post-260310)**
+*   **[See Okku's Full Curriculum](https://coloso.global/en/products/conceptartist-okku2-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_conceptartist-okku2-us_auto_all&utm_content=illust_conceptartist-okku2-us_en-gsd-autoblog-illustration-post-260310)**
 
 
 
