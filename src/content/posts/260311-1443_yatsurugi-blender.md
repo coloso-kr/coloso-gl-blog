@@ -62,9 +62,9 @@ A. The most crucial aspect is remembering that 3DCG is a medium for expression. 
 ---
 
 ## 👉 Want to Go Deeper?
-- **[See yatsurugi's Full Curriculum](https://coloso.global/en/products/3dcgmodeler-yatsurugi-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_3dcgmodeler-yatsurugi-us_auto_all&utm_content=mediadesign_3dcgmodeler-yatsurugi-us_gsd-autoblog-blender-post-260311)**
+- **[See Yatsurugi's Full Curriculum](https://coloso.global/en/products/3dcgmodeler-yatsurugi-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_3dcgmodeler-yatsurugi-us_auto_all&utm_content=mediadesign_3dcgmodeler-yatsurugi-us_gsd-autoblog-blender-post-260311)**
 
 
 
-<div class="coupon-section" data-coupon-type="40000"></div>
+<div class="coupon-section" data-coupon-type="50"></div>
 
