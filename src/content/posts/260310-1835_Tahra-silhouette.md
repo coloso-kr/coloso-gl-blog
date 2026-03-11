@@ -18,7 +18,7 @@ tags:
 # Character Design: Mastering Silhouette Flow for Iconic Looks
 
 ## 🧐 The Frustration of an Uninspired Silhouette
-![강의 이미지 1](https://cdn.day1company.io/prod/uploads/202311/132436-914/kr-dictionary-tahra-portfolio-01.webp)
+![Course Image 1](https://cdn.day1company.io/prod/uploads/202311/132436-914/kr-dictionary-tahra-portfolio-01.webp)
 You nail the core ideas, but your character's silhouette feels flat, lacking that visual punch. Turns out, the fix often lies in understanding the flow and intentionality of shape arrangement. Concept Artist Tahra highlights how ignoring the 'why' behind each shape placement can kill a design's potential.
 
 ---
@@ -40,7 +40,7 @@ Designs often fall apart when they don't consider basic physics. Tahra stresses 
 
 ## 🛠️ Key Skills & Details That Define Professional Quality
 
-![강의 이미지 2](https://cdn.day1company.io/prod/uploads/202311/132440-914/kr-dictionary-tahra-portfolio-02.webp)
+![Course Image 2](https://cdn.day1company.io/prod/uploads/202311/132440-914/kr-dictionary-tahra-portfolio-02.webp)
 
 Concept Artist Tahra leverages several practical techniques to elevate his designs:
 

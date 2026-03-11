@@ -18,7 +18,7 @@ tags:
 # Blender Array Modifier: Unlock Your Workflow's True Potential
 
 ## 🧐 Ever Feel Like You're Repeating the Same Tasks in Blender?
-![강의 이미지 1](https://cdn.day1company.io/prod/uploads/202507/130613-1093/portfolio-conceptartist-kevingnutzmans-us01.webp)
+![Course Image 1](https://cdn.day1company.io/prod/uploads/202507/130613-1093/portfolio-conceptartist-kevingnutzmans-us01.webp)
 Modeling can sometimes feel tedious, like you're just duplicating work endlessly. But what if there was a way to automate those repetitive tasks, maintain flexibility, and still have complete control? Turns out, the Array Modifier is your secret weapon for precisely this. I've found that mastering its nuances can drastically cut down your production time and open up entirely new creative possibilities.
 
 ---

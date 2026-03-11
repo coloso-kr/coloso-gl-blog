@@ -18,7 +18,7 @@ tags:
 # Mastering ZBrush for Art Toys: Tobey's Essential Workflow
 
 ## 🧐 Frustrated with Digital-Only Models? Learn to Bring Your Characters to Life!
-![강의 이미지 1](https://cdn.day1company.io/prod/uploads/202507/161523-1535/portfolio-3ddesign-tobey-01.webp)
+![Course Image 1](https://cdn.day1company.io/prod/uploads/202507/161523-1535/portfolio-3ddesign-tobey-01.webp)
 You meticulously craft your character in ZBrush, only to see it remain a digital file. The real magic happens when it becomes a tangible art toy. But bridging that gap from screen to shelf can be a puzzle. Most tutorials focus solely on modeling, leaving you hanging when it comes to the crucial steps of preparing for 3D printing and post-processing. This is where the true art of bringing your creation into the real world begins, and it's often the most overlooked part of the process.
 
 ---
@@ -39,7 +39,7 @@ What separates a good sculpt from a collectible art toy? It's often the attentio
 ---
 
 ## 🛠️ Key Skills & Details That Define Professional Quality
-![강의 이미지 2](https://cdn.day1company.io/prod/uploads/202507/161528-1535/portfolio-3ddesign-tobey-02.webp)
+![Course Image 2](https://cdn.day1company.io/prod/uploads/202507/161528-1535/portfolio-3ddesign-tobey-02.webp)
 
 Transforming your ZBrush sculpt into a physical art toy demands more than just knowing how to model. Tobey's approach emphasizes **practical, hands-on techniques** that are directly applicable to 3D printing and finishing.
 

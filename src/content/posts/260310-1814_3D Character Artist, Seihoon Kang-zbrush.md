@@ -18,7 +18,7 @@ tags:
 # Mastering ZBrush Cartoon Style: Kang Seihoon's Secrets to Character Modeling
 
 ## 🧐 When Your ZBrush Sculpt Isn't Quite Clicking
-![강의 이미지 1](https://cdn.day1company.io/prod/uploads/202411/135810-1535/portfolio-3dcharacterartist-kangseihoon01.webp)
+![Course Image 1](https://cdn.day1company.io/prod/uploads/202411/135810-1535/portfolio-3dcharacterartist-kangseihoon01.webp)
 You've followed every step, but that signature cartoon charm is still elusive. The subtle angles, the perfect silhouette – it feels just out of reach. Often, the fix isn't more complexity, but a smarter approach to ZBrush fundamentals.
 
 ---
@@ -39,7 +39,7 @@ A truly compelling cartoon character hinges on its silhouette and key angles, es
 ---
 
 ## 🛠️ Key Skills & Details That Define Professional Quality
-![강의 이미지 2](https://cdn.day1company.io/prod/uploads/202310/155420-569/kr-3dcharacterartist-kangseihoon-portfolio-02.webp)
+![Course Image 2](https://cdn.day1company.io/prod/uploads/202310/155420-569/kr-3dcharacterartist-kangseihoon-portfolio-02.webp)
 
 The script emphasizes that achieving a professional cartoon look in ZBrush isn't just about software mastery; it's about an **artistic eye developed through targeted practice.**
 
