@@ -46,18 +46,18 @@ export const COUPON_SYSTEM = {
   // ✅ 할인액별로 쿠폰 리스트를 분리해서 넣으세요.
   codes: {
     "50": [
-      "en-gsd_autoblog2603_gl_50-1",
-      "en-gsd_autoblog2603_gl_50-2",
-      "en-gsd_autoblog2603_gl_50-3",
-      "en-gsd_autoblog2603_gl_50-4",
-      "en-gsd_autoblog2603_gl_50-5"
+      "gsd_autoblog2603_gl_50-1",
+      "gsd_autoblog2603_gl_50-1",
+      "gsd_autoblog2603_gl_50-1",
+      "gsd_autoblog2603_gl_50-1",
+      "gsd_autoblog2603_gl_50-1"
     ],
     "70": [
-      "en-gsd_autoblog2603_gl_70-1",
-      "en-gsd_autoblog2603_gl_70-2",
-      "en-gsd_autoblog2603_gl_70-3",
-      "en-gsd_autoblog2603_gl_70-4",
-      "en-gsd_autoblog2603_gl_70-5"
+      "gsd_autoblog2603_gl_70-1",
+      "gsd_autoblog2603_gl_70-2",
+      "gsd_autoblog2603_gl_70-3",
+      "gsd_autoblog2603_gl_70-4",
+      "gsd_autoblog2603_gl_70-5"
     ]
   },
 };
