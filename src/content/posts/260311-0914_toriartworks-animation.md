@@ -18,7 +18,7 @@ tags:
 # Mastering 2D Animation: Tori Artworks's VFX & Compositing Secrets
 
 ## 🧐 When Your 2D Animation Lacks That "Wow" Factor: Fixing VFX and Compositing Gaps
-![강의 이미지 1](https://cdn.day1company.io/prod/uploads/202503/090819-1093/portfolio-2danimator-toriartworks-01.webp)
+![Course Image 1](https://cdn.day1company.io/prod/uploads/202503/090819-1093/portfolio-2danimator-toriartworks-01.webp)
 Following every step in animation is crucial, but sometimes the final polish for VFX and compositing feels like it's missing. This course tackles that exact challenge head-on, providing actionable techniques to elevate your 2D work from good to great.
 
 ---
@@ -39,7 +39,7 @@ The final polish often comes down to subtle color adjustments. Tori Artworks hig
 ---
 
 ## 🛠️ Key Skills & Details That Define Professional Quality
-![강의 이미지 2](https://cdn.day1company.io/prod/uploads/202503/090823-1093/portfolio-2danimator-toriartworks-02.webp)
+![Course Image 2](https://cdn.day1company.io/prod/uploads/202503/090823-1093/portfolio-2danimator-toriartworks-02.webp)
 
 To achieve professional-grade 2D animation with impactful VFX and compositing, focus on these practical skills:
 
