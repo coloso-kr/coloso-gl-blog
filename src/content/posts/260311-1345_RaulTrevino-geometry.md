@@ -18,7 +18,7 @@ tags:
 # Blender: Fixing Unexpected Eye Gaps for Anime Characters
 
 ## 🧐 The Frustration of Visible Sclera in 3D Character Conversions
-![강의 이미지 1](https://cdn.day1company.io/prod/uploads/202405/111025-879/us-2d3dartist-raultrevino-portfolio-01.webp)
+![Course Image 1](https://cdn.day1company.io/prod/uploads/202405/111025-879/us-2d3dartist-raultrevino-portfolio-01.webp)
 You follow every step meticulously, aiming for that iconic anime look, but then you notice it: an unwanted gap between the eyeball and the eyelid, revealing an unnatural sliver of white. This tiny detail can break the illusion and make your character look perpetually surprised or just plain off. The fix often feels more complex than it should be, especially when trying to maintain the original 2D design's spirit.
 
 ---
@@ -39,7 +39,7 @@ When the original design requires longer elements, like dramatic eyelashes or st
 ---
 
 ## 🛠️ Key Skills & Details That Define Professional Quality
-![강의 이미지 2](https://cdn.day1company.io/prod/uploads/202405/111028-879/us-2d3dartist-raultrevino-portfolio-02.webp)
+![Course Image 2](https://cdn.day1company.io/prod/uploads/202405/111028-879/us-2d3dartist-raultrevino-portfolio-02.webp)
 
 When converting 2D designs to 3D, **vertex placement** is paramount. For elements like eyelashes and eyebrows, the process isn't just about duplicating geometry; it's about understanding how these elements interact with the character's form.
 
