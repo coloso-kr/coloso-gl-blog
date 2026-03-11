@@ -87,5 +87,5 @@ A. Lappy focuses on strategic layering and using sound design as a compositional
 
 
 
-<div class="coupon-section" data-coupon-type="40000"></div>
+<div class="coupon-section" data-coupon-type="70"></div>
 
