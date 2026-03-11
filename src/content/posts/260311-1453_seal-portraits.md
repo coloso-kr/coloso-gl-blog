@@ -31,7 +31,7 @@ The finishing touch that elevates a portrait from good to great is often in the 
 ---
 
 ## 🛠️ Key Skills & Details That Define Professional Quality
-![Course Image 2](https://cdn.day1company.io/prod/uploads/202501/162813-1535/portfolio-dictionary-seal2.webp)
+![Course Image](https://cdn.day1company.io/prod/uploads/202501/162813-1535/portfolio-dictionary-seal2.webp)
 
 To achieve professional-quality portraits in Procreate, focus on mastering foundational drawing techniques and thoughtful color application. This includes:
 
