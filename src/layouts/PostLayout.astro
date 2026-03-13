@@ -58,7 +58,6 @@ const ogImage = `/open-graph/${postSlug}.png`
 
 <script define:vars={{ COUPON_SYSTEM }}>
   function runCouponSystem() {
-// return; // 👈 이 줄만 추가하세요. 아래 코드가 아예 실행되지 않습니다.
     if (!COUPON_SYSTEM?.enabled || !COUPON_SYSTEM.codes) return;
 
     const sections = document.querySelectorAll('.coupon-section');
@@ -73,21 +72,23 @@ const ogImage = `/open-graph/${postSlug}.png`
       const couponKey = `coloso_idx_${type}`;
       let currentIdx = parseInt(localStorage.getItem(couponKey) || '0');
       const activeCode = codesArray[currentIdx % codesArray.length];
-      const redeemLink = `https://coloso.co.kr/account/coupon?redeemCode=${activeCode}`;
+      const redeemLink = `https://coloso.global/en/account/coupon?RedeemCode=${activeCode}`;
 
-section.innerHTML = `
-    <div style="text-align: center; margin: 60px 0; padding: 40px 0; border-top: 1px solid #eee;">
-    <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 20px;">🎁 Special Offer</p>
-    <h1 style="margin: 20px 0;">
-      <a href="${redeemLink}"
-         style="color: #0070f3; text-decoration: underline; font-weight: bold; font-size: 32px;"
-         onclick="localStorage.setItem('${couponKey}', ${currentIdx + 1})">
-         Claim Your Secret Coupon
-      </a>
-    </h1>
-    <p style="font-weight: 600; color: #888;">Click to instantly apply a $${type === '50' ? '50' : '70'} discount coupon to your account.</p>
-  </div>
-`;
+      section.innerHTML = `
+        <div style="text-align: center; margin: 60px 0; padding: 40px 0; border-top: 1px solid #eee;">
+          <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 20px;">🎁 Special Offer</p>
+          <h1 style="margin: 20px 0;">
+            <a href="${redeemLink}"
+               style="color: #0070f3; text-decoration: underline; font-weight: bold; font-size: 32px;"
+               onclick="localStorage.setItem('${couponKey}', ${currentIdx + 1})">
+               Claim Your Secret Coupon
+            </a>
+          </h1>
+          <p style="font-weight: 600; color: #888;">Click to instantly apply a $${type === '50' ? '50' : '70'} discount coupon to your account.</p>
+        </div>
+      `;
+    });
+  }  // ← 이게 빠져있었어요
 
   runCouponSystem();
   document.addEventListener('astro:page-load', runCouponSystem);
