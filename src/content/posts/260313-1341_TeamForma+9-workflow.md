@@ -68,7 +68,7 @@ While the course specifically demonstrates workflows using Clip Studio Paint, Pr
 
 ## 👉 Want to Go Deeper?
 
-- **[See TeamForma+'s Full Curriculum](https://coloso.global/en/products/project-teamformat9-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_project-teamformat9-us_auto_all&utm_content=mediadesign_project-teamformat9-us_gsd-autoblog-workflow-post-260313)**
+- **[See TeamForma+9's Full Curriculum](https://coloso.global/en/products/project-teamformat9-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_project-teamformat9-us_auto_all&utm_content=mediadesign_project-teamformat9-us_gsd-autoblog-workflow-post-260313)**
 
 
 
