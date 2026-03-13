@@ -58,7 +58,7 @@ const ogImage = `/open-graph/${postSlug}.png`
 
 <script define:vars={{ COUPON_SYSTEM }}>
   function runCouponSystem() {
-return; // 👈 이 줄만 추가하세요. 아래 코드가 아예 실행되지 않습니다.
+// return; // 👈 이 줄만 추가하세요. 아래 코드가 아예 실행되지 않습니다.
     if (!COUPON_SYSTEM?.enabled || !COUPON_SYSTEM.codes) return;
 
     const sections = document.querySelectorAll('.coupon-section');
