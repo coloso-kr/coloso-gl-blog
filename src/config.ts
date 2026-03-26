@@ -47,10 +47,10 @@ export const COUPON_SYSTEM = {
   codes: {
     "50": [
       "gsd_autoblog2603_gl_50-1",
-      "gsd_autoblog2603_gl_50-1",
-      "gsd_autoblog2603_gl_50-1",
-      "gsd_autoblog2603_gl_50-1",
-      "gsd_autoblog2603_gl_50-1"
+      "gsd_autoblog2603_gl_50-2",
+      "gsd_autoblog2603_gl_50-3",
+      "gsd_autoblog2603_gl_50-4",
+      "gsd_autoblog2603_gl_50-5"
     ],
     "70": [
       "gsd_autoblog2603_gl_70-1",
