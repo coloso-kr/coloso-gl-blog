@@ -26,7 +26,7 @@ Just as you wouldn't leave a character's body in an unappealing pose, the same c
 ### 3. Build Your Own Library – A Workflow for Feature-Quality Results
 Relying on generic presets won't cut it for high-quality feature animation. Animationsupervisor Rossi advocates for building a personalized, reusable lip sync library. This involves not only mastering the core phonemes but also understanding how to create variations for different emotional states, accents, and even specific character quirks. By developing this workflow, you ensure consistency and efficiency, allowing you to tackle any dialogue test with a solid foundation and a professional edge. This library becomes your secret weapon for delivering believable performances, every time.
 
-👉 **[Learn More](/en/products/animationsupervisor-laurentrossi-us)**
+👉 **[Learn More](https://coloso.global/en/products/50chapter-tahra-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_50chapter-tahra-us_auto_all&utm_content=illust_50chapter-tahra-us_gsd-autoblog-character-post-260326)**
 
 ---
 
@@ -64,7 +64,7 @@ Animationsupervisor Rossi stresses that appeal is vital. Just like body animatio
 
 ## 👉 Want to Go Deeper?
 
-- **[See laurentrossi's Full Curriculum](/en/products/animationsupervisor-laurentrossi-us)**
+- **[See laurentrossi's Full Curriculum](https://coloso.global/en/products/50chapter-tahra-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_50chapter-tahra-us_auto_all&utm_content=illust_50chapter-tahra-us_gsd-autoblog-character-post-260326)**
 
 
 
