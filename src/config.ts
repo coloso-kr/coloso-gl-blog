@@ -3,7 +3,7 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://coloso-gl-blog.vercel.app/', // Site domain
+    website: 'https://www.coloso-gl.blog/', // Site domain
     title: 'Coloso Blog', // Site title
     author: 'Coloso Blog', // Author name
     description: 'Learn the best, from the best.', // Site description
