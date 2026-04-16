@@ -1,5 +1,5 @@
 ---
-title: "Illustrator HOOD: Level Up Your Female Character Anatomy & Workflow"
+title: "Stop Drawing Stiff Bodies! Hood's Guide to Dynamic Anatomy"
 description: "hood's illust course review"
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
