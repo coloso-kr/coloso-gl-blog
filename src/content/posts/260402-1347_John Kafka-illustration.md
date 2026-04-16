@@ -1,5 +1,5 @@
 ---
-title: "John Kafka: Elevating Character Illustrations with Distinctive Colors and Textures"
+title: "How to Create Cinematic Lighting like JohnKafka (Step-by-Step)"
 description: "John Kafka's illust course review"
 pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
