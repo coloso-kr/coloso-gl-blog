@@ -1,5 +1,5 @@
 ---
-title: "Mastering Anime Illustrations: Alice Vu's Secrets to Dynamic Backgrounds & Composition"
+title: "Is Your Art Messy? Master Composition with AliceVu's Techniques"
 description: "Unlock the secrets to captivating anime-style illustrations with expert advice on dynamic backgrounds, composition, and rendering techniques from Illustrator Alice Vu. Learn practical tips to elevate your artwork."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
