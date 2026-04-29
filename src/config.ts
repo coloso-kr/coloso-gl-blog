@@ -38,7 +38,7 @@ export const themeConfig: ThemeConfig = {
 }; // <--- 🌟 중요: themeConfig는 여기서 끝납니다!
 
 // --- 🎁 월간 쿠폰 시스템 설정 ---
-const COUPON_MONTH = "2604"; // ← 매월 자동 업데이트
+const COUPON_MONTH = "2603"; // ← 매월 자동 업데이트
 
 export const COUPON_SYSTEM = {
   enabled: true,
