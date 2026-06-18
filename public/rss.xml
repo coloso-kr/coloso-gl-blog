@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Breaking the Boundaries of Illustration with Live2D Animation]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-eggutarto-us-animation-260618/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-eggutarto-us-animation-260618/</guid>
+      <pubDate>Thu, 18 Jun 2026 01:01:06 GMT</pubDate>
+      <description><![CDATA[Breaking the Boundaries of Illustration with Live2D Animation 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Practice Makes Perfect: Mastering Anime Character Illustration]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-lunarmimi-us-illustration-260617/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-lunarmimi-us-illustration-260617/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-luna-zh-illustration-260610/</guid>
       <pubDate>Wed, 10 Jun 2026 05:33:44 GMT</pubDate>
       <description><![CDATA[A Guide to Atmosphere, Color & Visual Direction that Gets Clients 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[VTuber Visuals: Custom Outfit Creation & 4-Platform Setup Guide]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dvirtualartist-binz-us-review-260610/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dvirtualartist-binz-us-review-260610/</guid>
-      <pubDate>Wed, 10 Jun 2026 04:47:34 GMT</pubDate>
-      <description><![CDATA[VTuber Visuals: Custom Outfit Creation & 4-Platform Setup Guide 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
