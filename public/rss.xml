@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Realistic 3D Artwork with Lifelike Detail]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dartist-minstin-us-photorealism-260618/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dartist-minstin-us-photorealism-260618/</guid>
+      <pubDate>Thu, 18 Jun 2026 04:47:26 GMT</pubDate>
+      <description><![CDATA[Creating Realistic 3D Artwork with Lifelike Detail 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Breaking the Boundaries of Illustration with Live2D Animation]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-eggutarto-us-animation-260618/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-eggutarto-us-animation-260618/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-vsquadstudio-us-character-260610/</guid>
       <pubDate>Wed, 10 Jun 2026 07:39:16 GMT</pubDate>
       <description><![CDATA[AAA Character Sculpting Bootcamp: From Zero to Hero 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[A Guide to Atmosphere, Color & Visual Direction that Gets Clients]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-luna-zh-illustration-260610/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-luna-zh-illustration-260610/</guid>
-      <pubDate>Wed, 10 Jun 2026 05:33:44 GMT</pubDate>
-      <description><![CDATA[A Guide to Atmosphere, Color & Visual Direction that Gets Clients 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
