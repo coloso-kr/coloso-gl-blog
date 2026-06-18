@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Design Illustrative VTubers with 3D Modeling]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dcgmodeler-pfy-us-3dcg-260618/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dcgmodeler-pfy-us-3dcg-260618/</guid>
+      <pubDate>Thu, 18 Jun 2026 05:33:38 GMT</pubDate>
+      <description><![CDATA[Design Illustrative VTubers with 3D Modeling 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating Realistic 3D Artwork with Lifelike Detail]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dartist-minstin-us-photorealism-260618/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dartist-minstin-us-photorealism-260618/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-zoo-us-characterdesign-260611/</guid>
       <pubDate>Thu, 11 Jun 2026 01:01:07 GMT</pubDate>
       <description><![CDATA[Building Characters, Crafting Stories: A Guide to Emotive Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[AAA Character Sculpting Bootcamp: From Zero to Hero]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dcharacterartist-vsquadstudio-us-character-260610/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-vsquadstudio-us-character-260610/</guid>
-      <pubDate>Wed, 10 Jun 2026 07:39:16 GMT</pubDate>
-      <description><![CDATA[AAA Character Sculpting Bootcamp: From Zero to Hero 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
