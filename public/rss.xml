@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>콜로소 공식 블로그</title>
-    <link>https://www.coloso-kr.blog</link>
+    <link>https://www.coloso-gl.blog</link>
     <description>GEO 최적화 및 오가닉 유입을 위한 콜로소 블로그</description>
     <language>ko</language>
-    <atom:link href="https://www.coloso-kr.blog/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title><![CDATA[Practice Makes Perfect: Mastering Anime Character Illustration]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-lunarmimi-us-illustration-260617/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-lunarmimi-us-illustration-260617/</guid>
+      <pubDate>Wed, 17 Jun 2026 05:33:44 GMT</pubDate>
+      <description><![CDATA[Practice Makes Perfect: Mastering Anime Character Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
     <item>
       <title><![CDATA[Crafting Dazzling Semi-Real Characters and Cut Scenes with SHIROGUMI INC.]]></title>
       <link>https://coloso-gl-blog.vercel.app/cgproductionstudio-shirogumiinc-us-character-260617/</link>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dvirtualartist-binz-us-review-260610/</guid>
       <pubDate>Wed, 10 Jun 2026 04:47:34 GMT</pubDate>
       <description><![CDATA[VTuber Visuals: Custom Outfit Creation & 4-Platform Setup Guide 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Action-Packed Animation: Mastering VFX and Timing]]></title>
-      <link>https://coloso-gl-blog.vercel.app/2danimator-ennuikal-us-animation-260610/</link>
-      <guid>https://coloso-gl-blog.vercel.app/2danimator-ennuikal-us-animation-260610/</guid>
-      <pubDate>Wed, 10 Jun 2026 01:01:04 GMT</pubDate>
-      <description><![CDATA[Action-Packed Animation: Mastering VFX and Timing 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
