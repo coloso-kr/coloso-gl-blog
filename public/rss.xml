@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Worldbuilding with Blender: Asset Creation to Keyframe Storytelling]]></title>
+      <link>https://coloso-gl-blog.vercel.app/conceptartist-rahulc-us-blender-260619/</link>
+      <guid>https://coloso-gl-blog.vercel.app/conceptartist-rahulc-us-blender-260619/</guid>
+      <pubDate>Fri, 19 Jun 2026 04:47:40 GMT</pubDate>
+      <description><![CDATA[Worldbuilding with Blender: Asset Creation to Keyframe Storytelling 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Fundamentals of Expressing Attractive Line Art]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-moca-us-lineart-260619/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-moca-us-lineart-260619/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-seoji3-us-review-260611/</guid>
       <pubDate>Thu, 11 Jun 2026 07:39:13 GMT</pubDate>
       <description><![CDATA[Anime Character Design: From Chibi to Semi-Realistic 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The A to Z of Creating Cartoon-Style Modeling with Blender]]></title>
-      <link>https://coloso-gl-blog.vercel.app/blenderartist-anteater-us-stylized-260611/</link>
-      <guid>https://coloso-gl-blog.vercel.app/blenderartist-anteater-us-stylized-260611/</guid>
-      <pubDate>Thu, 11 Jun 2026 05:33:35 GMT</pubDate>
-      <description><![CDATA[The A to Z of Creating Cartoon-Style Modeling with Blender 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
