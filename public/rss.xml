@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Myth-Inspired Creature & Atmospheric Animation]]></title>
+      <link>https://coloso-gl-blog.vercel.app/2danimator-rosymollet-us-review-260620/</link>
+      <guid>https://coloso-gl-blog.vercel.app/2danimator-rosymollet-us-review-260620/</guid>
+      <pubDate>Sat, 20 Jun 2026 05:33:53 GMT</pubDate>
+      <description><![CDATA[Myth-Inspired Creature & Atmospheric Animation 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[VTuber Creation Made Easy: Illustration to Rig-Ready Models]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-shei-us-rigging-260620/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-shei-us-rigging-260620/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/2danimator-gabrielugbodaga-us-choreography-260612/</guid>
       <pubDate>Fri, 12 Jun 2026 07:39:13 GMT</pubDate>
       <description><![CDATA[Expressive Action: Dominating 2D Animation Choreography 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[3D Anime Style Mecha Production in OctaneRender for Blender]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dartist-linograndi-us-mecha-260612/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dartist-linograndi-us-mecha-260612/</guid>
-      <pubDate>Fri, 12 Jun 2026 05:33:40 GMT</pubDate>
-      <description><![CDATA[3D Anime Style Mecha Production in OctaneRender for Blender 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
