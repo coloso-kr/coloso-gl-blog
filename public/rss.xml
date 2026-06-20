@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[VTuber Creation Made Easy: Illustration to Rig-Ready Models]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-shei-us-rigging-260620/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-shei-us-rigging-260620/</guid>
+      <pubDate>Sat, 20 Jun 2026 04:47:30 GMT</pubDate>
+      <description><![CDATA[VTuber Creation Made Easy: Illustration to Rig-Ready Models 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Character Fundamentals: Expressive Anime Illustration]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-lew-us-expressions-260619/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-lew-us-expressions-260619/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dartist-linograndi-us-mecha-260612/</guid>
       <pubDate>Fri, 12 Jun 2026 05:33:40 GMT</pubDate>
       <description><![CDATA[3D Anime Style Mecha Production in OctaneRender for Blender 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Introduction to Dynamic Body Mechanic/Camera Animation]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3danimator-vikramgrewal-us-animation-260612/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3danimator-vikramgrewal-us-animation-260612/</guid>
-      <pubDate>Fri, 12 Jun 2026 04:47:36 GMT</pubDate>
-      <description><![CDATA[Introduction to Dynamic Body Mechanic/Camera Animation 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
