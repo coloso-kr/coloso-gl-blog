@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Expressive Portraiture: Journey from Referenced to Original Portraits]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-justineflorentino-us-portraiture-260621/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-justineflorentino-us-portraiture-260621/</guid>
+      <pubDate>Sun, 21 Jun 2026 05:33:48 GMT</pubDate>
+      <description><![CDATA[Expressive Portraiture: Journey from Referenced to Original Portraits 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[From Blank Page to Confident Art: Beginner's Guide to Drawing & Coloring]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-pyekku-us-illustration-260621/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-pyekku-us-illustration-260621/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/animator-havtza2-us-adaptability-260613/</guid>
       <pubDate>Sat, 13 Jun 2026 07:39:16 GMT</pubDate>
       <description><![CDATA[Intermediate 2D Indie Animation: Design to Production 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Blueprint Fundamentals: Blurring the Boundary Between Gameplay and VFX]]></title>
-      <link>https://coloso-gl-blog.vercel.app/signature-kisonglee4-us-blueprints-260613/</link>
-      <guid>https://coloso-gl-blog.vercel.app/signature-kisonglee4-us-blueprints-260613/</guid>
-      <pubDate>Sat, 13 Jun 2026 05:33:36 GMT</pubDate>
-      <description><![CDATA[Blueprint Fundamentals: Blurring the Boundary Between Gameplay and VFX 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
