@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Level up Your Illustration with Animation]]></title>
+      <link>https://coloso-gl-blog.vercel.app/digitalartist-marykim2-us-review-260622/</link>
+      <guid>https://coloso-gl-blog.vercel.app/digitalartist-marykim2-us-review-260622/</guid>
+      <pubDate>Mon, 22 Jun 2026 04:47:30 GMT</pubDate>
+      <description><![CDATA[Level up Your Illustration with Animation 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating Atmospheric 2.5D Animation]]></title>
       <link>https://coloso-gl-blog.vercel.app/animationdirector-olivermottram-us-2-260622/</link>
       <guid>https://coloso-gl-blog.vercel.app/animationdirector-olivermottram-us-2-260622/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/characteranimator-alexiswanneroy-fr-performance-260614/</guid>
       <pubDate>Sun, 14 Jun 2026 05:33:36 GMT</pubDate>
       <description><![CDATA[Mastering Facial Animation and Emotional Storytelling 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Creating a Game UX/UI Design Portfolio]]></title>
-      <link>https://coloso-gl-blog.vercel.app/uxuidesign-semdesign-us-uxui-260614/</link>
-      <guid>https://coloso-gl-blog.vercel.app/uxuidesign-semdesign-us-uxui-260614/</guid>
-      <pubDate>Sun, 14 Jun 2026 04:47:27 GMT</pubDate>
-      <description><![CDATA[Creating a Game UX/UI Design Portfolio 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
