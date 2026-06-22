@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Atmospheric 2.5D Animation]]></title>
+      <link>https://coloso-gl-blog.vercel.app/animationdirector-olivermottram-us-2-260622/</link>
+      <guid>https://coloso-gl-blog.vercel.app/animationdirector-olivermottram-us-2-260622/</guid>
+      <pubDate>Mon, 22 Jun 2026 01:01:13 GMT</pubDate>
+      <description><![CDATA[Creating Atmospheric 2.5D Animation 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Cinematic 3D Production: From Concept to Final Render]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dartist-piotrpopel-us-review-260621/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dartist-piotrpopel-us-review-260621/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/uxuidesign-semdesign-us-uxui-260614/</guid>
       <pubDate>Sun, 14 Jun 2026 04:47:27 GMT</pubDate>
       <description><![CDATA[Creating a Game UX/UI Design Portfolio 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Storytelling with Environments: from Brainstorming to Rendering]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-luhanwang2-us-narrative-260614/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-luhanwang2-us-narrative-260614/</guid>
-      <pubDate>Sun, 14 Jun 2026 01:01:02 GMT</pubDate>
-      <description><![CDATA[Storytelling with Environments: from Brainstorming to Rendering 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
