@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Cinematic 3D Production: From Concept to Final Render]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dartist-piotrpopel-us-review-260621/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dartist-piotrpopel-us-review-260621/</guid>
+      <pubDate>Sun, 21 Jun 2026 07:39:27 GMT</pubDate>
+      <description><![CDATA[Cinematic 3D Production: From Concept to Final Render 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Expressive Portraiture: Journey from Referenced to Original Portraits]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-justineflorentino-us-portraiture-260621/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-justineflorentino-us-portraiture-260621/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-luhanwang2-us-narrative-260614/</guid>
       <pubDate>Sun, 14 Jun 2026 01:01:02 GMT</pubDate>
       <description><![CDATA[Storytelling with Environments: from Brainstorming to Rendering 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Intermediate 2D Indie Animation: Design to Production]]></title>
-      <link>https://coloso-gl-blog.vercel.app/animator-havtza2-us-adaptability-260613/</link>
-      <guid>https://coloso-gl-blog.vercel.app/animator-havtza2-us-adaptability-260613/</guid>
-      <pubDate>Sat, 13 Jun 2026 07:39:16 GMT</pubDate>
-      <description><![CDATA[Intermediate 2D Indie Animation: Design to Production 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
