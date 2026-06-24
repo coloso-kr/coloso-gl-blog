@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating 3D Anime Backgrounds  in Blender: A Comprehensive Tutorial]]></title>
+      <link>https://coloso-gl-blog.vercel.app/blender-parksangwoo2-us-workflow-260624/</link>
+      <guid>https://coloso-gl-blog.vercel.app/blender-parksangwoo2-us-workflow-260624/</guid>
+      <pubDate>Wed, 24 Jun 2026 01:01:09 GMT</pubDate>
+      <description><![CDATA[Creating 3D Anime Backgrounds  in Blender: A Comprehensive Tutorial 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating Illustrations with 3D Modeling]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-sullvin-us-illustration-260623/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-sullvin-us-illustration-260623/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/conceptartist-liableedingsun-us-semi-realism-260615/</guid>
       <pubDate>Mon, 15 Jun 2026 07:39:16 GMT</pubDate>
       <description><![CDATA[Semi-Realism in Fantasy Art: A Classical Painting Approach 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anime Meets Classical Art: Detailed Character & Background Illustration]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-lux-us-composition-260615/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-lux-us-composition-260615/</guid>
-      <pubDate>Mon, 15 Jun 2026 05:33:37 GMT</pubDate>
-      <description><![CDATA[Anime Meets Classical Art: Detailed Character & Background Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
