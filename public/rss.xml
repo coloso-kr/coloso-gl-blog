@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Illustrations with 3D Modeling]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-sullvin-us-illustration-260623/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-sullvin-us-illustration-260623/</guid>
+      <pubDate>Tue, 23 Jun 2026 05:33:38 GMT</pubDate>
+      <description><![CDATA[Creating Illustrations with 3D Modeling 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Character to Brand: Merchandising Masterclass]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-bichimao-us-merchandising-260623/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-bichimao-us-merchandising-260623/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-lux-us-composition-260615/</guid>
       <pubDate>Mon, 15 Jun 2026 05:33:37 GMT</pubDate>
       <description><![CDATA[Anime Meets Classical Art: Detailed Character & Background Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Mastering Hyperrealism: Digital Portraits with Procreate]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-darrielmclaurin-us-hyperrealism-260615/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-darrielmclaurin-us-hyperrealism-260615/</guid>
-      <pubDate>Mon, 15 Jun 2026 04:47:29 GMT</pubDate>
-      <description><![CDATA[Mastering Hyperrealism: Digital Portraits with Procreate 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
