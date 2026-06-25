@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Making Stylized 3D Animation from Scratch]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dartist-joyof3d-us-animation-260624/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dartist-joyof3d-us-animation-260624/</guid>
+      <pubDate>Wed, 24 Jun 2026 07:39:50 GMT</pubDate>
+      <description><![CDATA[Making Stylized 3D Animation from Scratch 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating 3D Anime Backgrounds  in Blender: A Comprehensive Tutorial]]></title>
       <link>https://coloso-gl-blog.vercel.app/blender-parksangwoo2-us-workflow-260624/</link>
       <guid>https://coloso-gl-blog.vercel.app/blender-parksangwoo2-us-workflow-260624/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/2danimator-dalri-us-animation-260616/</guid>
       <pubDate>Tue, 16 Jun 2026 01:01:05 GMT</pubDate>
       <description><![CDATA[Conquering Anime Style Action Scene from A to Z 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Semi-Realism in Fantasy Art: A Classical Painting Approach]]></title>
-      <link>https://coloso-gl-blog.vercel.app/conceptartist-liableedingsun-us-semi-realism-260615/</link>
-      <guid>https://coloso-gl-blog.vercel.app/conceptartist-liableedingsun-us-semi-realism-260615/</guid>
-      <pubDate>Mon, 15 Jun 2026 07:39:16 GMT</pubDate>
-      <description><![CDATA[Semi-Realism in Fantasy Art: A Classical Painting Approach 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
