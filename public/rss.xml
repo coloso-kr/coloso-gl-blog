@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Isometric Pixel Art Worlds for Animation and Video Games]]></title>
+      <link>https://coloso-gl-blog.vercel.app/2ddigitalartist-taho-us-review-260625/</link>
+      <guid>https://coloso-gl-blog.vercel.app/2ddigitalartist-taho-us-review-260625/</guid>
+      <pubDate>Thu, 25 Jun 2026 05:33:43 GMT</pubDate>
+      <description><![CDATA[Creating Isometric Pixel Art Worlds for Animation and Video Games 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[The Complete Guide to 3D Animation in C4D & Redshift]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dmotiondesigner-jansladecko-us-review-260625/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dmotiondesigner-jansladecko-us-review-260625/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/animator-julienmarykim-us-animation-260616/</guid>
       <pubDate>Tue, 16 Jun 2026 05:33:39 GMT</pubDate>
       <description><![CDATA[2D Action & Japanese Key Animation Ultimate Starter Pack 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Guide to Attractive Comic-Style, Ready To Use Male Characters]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-phaes-us-charisma-260616/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-phaes-us-charisma-260616/</guid>
-      <pubDate>Tue, 16 Jun 2026 04:47:27 GMT</pubDate>
-      <description><![CDATA[Guide to Attractive Comic-Style, Ready To Use Male Characters 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
