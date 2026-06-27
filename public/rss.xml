@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating UE5 Assets for AAA-Level 3D Environment Graphics]]></title>
+      <link>https://coloso-gl-blog.vercel.app/signature-sangwooklee-us-environmentart-260627/</link>
+      <guid>https://coloso-gl-blog.vercel.app/signature-sangwooklee-us-environmentart-260627/</guid>
+      <pubDate>Sat, 27 Jun 2026 04:47:45 GMT</pubDate>
+      <description><![CDATA[Creating UE5 Assets for AAA-Level 3D Environment Graphics 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Intro to K-Pop Entertainment Design and Visual Directing]]></title>
       <link>https://coloso-gl-blog.vercel.app/studio-laundryoffice-us-review-260627/</link>
       <guid>https://coloso-gl-blog.vercel.app/studio-laundryoffice-us-review-260627/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/cgproductionstudio-shirogumiinc-us-character-260617/</guid>
       <pubDate>Wed, 17 Jun 2026 04:47:28 GMT</pubDate>
       <description><![CDATA[Crafting Dazzling Semi-Real Characters and Cut Scenes with SHIROGUMI INC. 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Demystifying Multi-Character Animation in Maya]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dcharacteranimator-eresantos-us-review-260617/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dcharacteranimator-eresantos-us-review-260617/</guid>
-      <pubDate>Wed, 17 Jun 2026 01:01:02 GMT</pubDate>
-      <description><![CDATA[Demystifying Multi-Character Animation in Maya 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
