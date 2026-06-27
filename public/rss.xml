@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Practical Tips for Powerful Logo-Centric Brand Design]]></title>
+      <link>https://coloso-gl-blog.vercel.app/artdirector-hayasaka-zh-review-260627/</link>
+      <guid>https://coloso-gl-blog.vercel.app/artdirector-hayasaka-zh-review-260627/</guid>
+      <pubDate>Sat, 27 Jun 2026 05:33:36 GMT</pubDate>
+      <description><![CDATA[Practical Tips for Powerful Logo-Centric Brand Design 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating UE5 Assets for AAA-Level 3D Environment Graphics]]></title>
       <link>https://coloso-gl-blog.vercel.app/signature-sangwooklee-us-environmentart-260627/</link>
       <guid>https://coloso-gl-blog.vercel.app/signature-sangwooklee-us-environmentart-260627/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-lunarmimi-us-illustration-260617/</guid>
       <pubDate>Wed, 17 Jun 2026 05:33:44 GMT</pubDate>
       <description><![CDATA[Practice Makes Perfect: Mastering Anime Character Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Crafting Dazzling Semi-Real Characters and Cut Scenes with SHIROGUMI INC.]]></title>
-      <link>https://coloso-gl-blog.vercel.app/cgproductionstudio-shirogumiinc-us-character-260617/</link>
-      <guid>https://coloso-gl-blog.vercel.app/cgproductionstudio-shirogumiinc-us-character-260617/</guid>
-      <pubDate>Wed, 17 Jun 2026 04:47:28 GMT</pubDate>
-      <description><![CDATA[Crafting Dazzling Semi-Real Characters and Cut Scenes with SHIROGUMI INC. 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
