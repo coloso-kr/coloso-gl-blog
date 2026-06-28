@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[A Professional's Guide to Enhancing Figure Painting Skills]]></title>
+      <link>https://coloso-gl-blog.vercel.app/figurepainter-shinyasuzuki-us-figurepainting-260628/</link>
+      <guid>https://coloso-gl-blog.vercel.app/figurepainter-shinyasuzuki-us-figurepainting-260628/</guid>
+      <pubDate>Sun, 28 Jun 2026 01:01:03 GMT</pubDate>
+      <description><![CDATA[A Professional's Guide to Enhancing Figure Painting Skills 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Introductory Game Animation Pipelines for Anime Characters]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dgameanimator-kimyeongje-us-review-260627/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dgameanimator-kimyeongje-us-review-260627/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dartist-minstin-us-photorealism-260618/</guid>
       <pubDate>Thu, 18 Jun 2026 04:47:26 GMT</pubDate>
       <description><![CDATA[Creating Realistic 3D Artwork with Lifelike Detail 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Breaking the Boundaries of Illustration with Live2D Animation]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-eggutarto-us-animation-260618/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-eggutarto-us-animation-260618/</guid>
-      <pubDate>Thu, 18 Jun 2026 01:01:06 GMT</pubDate>
-      <description><![CDATA[Breaking the Boundaries of Illustration with Live2D Animation 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
