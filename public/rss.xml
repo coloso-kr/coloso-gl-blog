@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Introductory Game Animation Pipelines for Anime Characters]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dgameanimator-kimyeongje-us-review-260627/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dgameanimator-kimyeongje-us-review-260627/</guid>
+      <pubDate>Sat, 27 Jun 2026 07:39:28 GMT</pubDate>
+      <description><![CDATA[Introductory Game Animation Pipelines for Anime Characters 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Practical Tips for Powerful Logo-Centric Brand Design]]></title>
       <link>https://coloso-gl-blog.vercel.app/artdirector-hayasaka-zh-review-260627/</link>
       <guid>https://coloso-gl-blog.vercel.app/artdirector-hayasaka-zh-review-260627/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-eggutarto-us-animation-260618/</guid>
       <pubDate>Thu, 18 Jun 2026 01:01:06 GMT</pubDate>
       <description><![CDATA[Breaking the Boundaries of Illustration with Live2D Animation 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Practice Makes Perfect: Mastering Anime Character Illustration]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-lunarmimi-us-illustration-260617/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-lunarmimi-us-illustration-260617/</guid>
-      <pubDate>Wed, 17 Jun 2026 05:33:44 GMT</pubDate>
-      <description><![CDATA[Practice Makes Perfect: Mastering Anime Character Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
