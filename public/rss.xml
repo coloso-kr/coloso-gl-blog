@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[The Ultimate Webtoon Illustration Tool Kit]]></title>
+      <link>https://coloso-gl-blog.vercel.app/webtoonartist-sakon-us-illustration-260629/</link>
+      <guid>https://coloso-gl-blog.vercel.app/webtoonartist-sakon-us-illustration-260629/</guid>
+      <pubDate>Mon, 29 Jun 2026 05:33:37 GMT</pubDate>
+      <description><![CDATA[The Ultimate Webtoon Illustration Tool Kit 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Variable Type: From Experimental Designs to Branding Applications]]></title>
       <link>https://coloso-gl-blog.vercel.app/graphicdesigner-clementcases-us-typography-260629/</link>
       <guid>https://coloso-gl-blog.vercel.app/graphicdesigner-clementcases-us-typography-260629/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/conceptartist-rahulc-us-blender-260619/</guid>
       <pubDate>Fri, 19 Jun 2026 04:47:40 GMT</pubDate>
       <description><![CDATA[Worldbuilding with Blender: Asset Creation to Keyframe Storytelling 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Fundamentals of Expressing Attractive Line Art]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-moca-us-lineart-260619/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-moca-us-lineart-260619/</guid>
-      <pubDate>Fri, 19 Jun 2026 01:01:05 GMT</pubDate>
-      <description><![CDATA[Fundamentals of Expressing Attractive Line Art 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
