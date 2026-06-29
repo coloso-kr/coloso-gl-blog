@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creative Coding Essentials for Design & Motion]]></title>
+      <link>https://coloso-gl-blog.vercel.app/creativecoder-andreiondecastro-us-creativecoding-260628/</link>
+      <guid>https://coloso-gl-blog.vercel.app/creativecoder-andreiondecastro-us-creativecoding-260628/</guid>
+      <pubDate>Sun, 28 Jun 2026 04:47:29 GMT</pubDate>
+      <description><![CDATA[Creative Coding Essentials for Design & Motion 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[A Professional's Guide to Enhancing Figure Painting Skills]]></title>
       <link>https://coloso-gl-blog.vercel.app/figurepainter-shinyasuzuki-us-figurepainting-260628/</link>
       <guid>https://coloso-gl-blog.vercel.app/figurepainter-shinyasuzuki-us-figurepainting-260628/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dcgmodeler-pfy-us-3dcg-260618/</guid>
       <pubDate>Thu, 18 Jun 2026 05:33:38 GMT</pubDate>
       <description><![CDATA[Design Illustrative VTubers with 3D Modeling 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Creating Realistic 3D Artwork with Lifelike Detail]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dartist-minstin-us-photorealism-260618/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dartist-minstin-us-photorealism-260618/</guid>
-      <pubDate>Thu, 18 Jun 2026 04:47:26 GMT</pubDate>
-      <description><![CDATA[Creating Realistic 3D Artwork with Lifelike Detail 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
