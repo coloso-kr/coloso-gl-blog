@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Ready Set Go! Creating and Stylizing Your Character 0-100]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-nompang-us-illustration-260630/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-nompang-us-illustration-260630/</guid>
+      <pubDate>Tue, 30 Jun 2026 05:33:37 GMT</pubDate>
+      <description><![CDATA[Ready Set Go! Creating and Stylizing Your Character 0-100 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Pixel Art Characters for Beginners]]></title>
       <link>https://coloso-gl-blog.vercel.app/pixelartist-hyatsu-us-pixelart-260630/</link>
       <guid>https://coloso-gl-blog.vercel.app/pixelartist-hyatsu-us-pixelart-260630/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/2danimator-rosymollet-us-review-260620/</guid>
       <pubDate>Sat, 20 Jun 2026 05:33:53 GMT</pubDate>
       <description><![CDATA[Myth-Inspired Creature & Atmospheric Animation 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[VTuber Creation Made Easy: Illustration to Rig-Ready Models]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-shei-us-rigging-260620/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-shei-us-rigging-260620/</guid>
-      <pubDate>Sat, 20 Jun 2026 04:47:30 GMT</pubDate>
-      <description><![CDATA[VTuber Creation Made Easy: Illustration to Rig-Ready Models 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
