@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Unreal 3D Characters from Epic Concepts]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dartist-somuch3d-us-character-260701/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dartist-somuch3d-us-character-260701/</guid>
+      <pubDate>Wed, 01 Jul 2026 07:39:37 GMT</pubDate>
+      <description><![CDATA[Creating Unreal 3D Characters from Epic Concepts 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Surreal Visuals, 3D Artwork, and VFX Compositing]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dgraphicartist-calllmechi-us-surrealism-260701/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dgraphicartist-calllmechi-us-surrealism-260701/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dartist-piotrpopel-us-review-260621/</guid>
       <pubDate>Sun, 21 Jun 2026 07:39:27 GMT</pubDate>
       <description><![CDATA[Cinematic 3D Production: From Concept to Final Render 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Expressive Portraiture: Journey from Referenced to Original Portraits]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-justineflorentino-us-portraiture-260621/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-justineflorentino-us-portraiture-260621/</guid>
-      <pubDate>Sun, 21 Jun 2026 05:33:48 GMT</pubDate>
-      <description><![CDATA[Expressive Portraiture: Journey from Referenced to Original Portraits 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
