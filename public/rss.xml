@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Mastering Game Art: Pro Tips on Creating Dynamic Characters]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-artofjuu-us-characterdesign-260703/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-artofjuu-us-characterdesign-260703/</guid>
+      <pubDate>Fri, 03 Jul 2026 05:33:45 GMT</pubDate>
+      <description><![CDATA[Mastering Game Art: Pro Tips on Creating Dynamic Characters 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Bring Your Illustrations to Life: 2D Animation with AE]]></title>
       <link>https://coloso-gl-blog.vercel.app/2danimator-miua-fr-motion-260703/</link>
       <guid>https://coloso-gl-blog.vercel.app/2danimator-miua-fr-motion-260703/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/blender-parksangwoo2-us-workflow-260624/</guid>
       <pubDate>Wed, 24 Jun 2026 01:01:09 GMT</pubDate>
       <description><![CDATA[Creating 3D Anime Backgrounds  in Blender: A Comprehensive Tutorial 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Creating Illustrations with 3D Modeling]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-sullvin-us-illustration-260623/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-sullvin-us-illustration-260623/</guid>
-      <pubDate>Tue, 23 Jun 2026 05:33:38 GMT</pubDate>
-      <description><![CDATA[Creating Illustrations with 3D Modeling 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
