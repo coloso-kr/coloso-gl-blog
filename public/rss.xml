@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Bring Your Illustrations to Life: 2D Animation with AE]]></title>
+      <link>https://coloso-gl-blog.vercel.app/2danimator-miua-fr-motion-260703/</link>
+      <guid>https://coloso-gl-blog.vercel.app/2danimator-miua-fr-motion-260703/</guid>
+      <pubDate>Fri, 03 Jul 2026 04:47:39 GMT</pubDate>
+      <description><![CDATA[Bring Your Illustrations to Life: 2D Animation with AE 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[1 Minute Animation Film-Making: Storytelling Through Everyday Experiences]]></title>
       <link>https://coloso-gl-blog.vercel.app/2danimationteam-icikiwirproductions-us-animation-260703/</link>
       <guid>https://coloso-gl-blog.vercel.app/2danimationteam-icikiwirproductions-us-animation-260703/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-sullvin-us-illustration-260623/</guid>
       <pubDate>Tue, 23 Jun 2026 05:33:38 GMT</pubDate>
       <description><![CDATA[Creating Illustrations with 3D Modeling 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Character to Brand: Merchandising Masterclass]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-bichimao-us-merchandising-260623/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-bichimao-us-merchandising-260623/</guid>
-      <pubDate>Tue, 23 Jun 2026 04:47:29 GMT</pubDate>
-      <description><![CDATA[Character to Brand: Merchandising Masterclass 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
