@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Crash Course on Making Action/Fantasy Scripts]]></title>
+      <link>https://coloso-gl-blog.vercel.app/webtoon-venti-us-webtoon-260704/</link>
+      <guid>https://coloso-gl-blog.vercel.app/webtoon-venti-us-webtoon-260704/</guid>
+      <pubDate>Sat, 04 Jul 2026 07:39:14 GMT</pubDate>
+      <description><![CDATA[Crash Course on Making Action/Fantasy Scripts 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Class+: Designing Eye-Catching Anime Characters]]></title>
       <link>https://coloso-gl-blog.vercel.app/chyanbasic-class-us-illustration-260704/</link>
       <guid>https://coloso-gl-blog.vercel.app/chyanbasic-class-us-illustration-260704/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/studio-laundryoffice-us-review-260627/</guid>
       <pubDate>Sat, 27 Jun 2026 01:01:06 GMT</pubDate>
       <description><![CDATA[Intro to K-Pop Entertainment Design and Visual Directing 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Going Beyond Theory: Creating Typography Posters]]></title>
-      <link>https://coloso-gl-blog.vercel.app/graphicdesign-hongjunki-us-typography-260625/</link>
-      <guid>https://coloso-gl-blog.vercel.app/graphicdesign-hongjunki-us-typography-260625/</guid>
-      <pubDate>Thu, 25 Jun 2026 07:39:24 GMT</pubDate>
-      <description><![CDATA[Going Beyond Theory: Creating Typography Posters 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
