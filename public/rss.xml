@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[C4D Animated MV Production: From Concept to Creation]]></title>
+      <link>https://coloso-gl-blog.vercel.app/project-superverymore-us-review-260706/</link>
+      <guid>https://coloso-gl-blog.vercel.app/project-superverymore-us-review-260706/</guid>
+      <pubDate>Mon, 06 Jul 2026 01:01:02 GMT</pubDate>
+      <description><![CDATA[C4D Animated MV Production: From Concept to Creation 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[3D for 2D Artists: Cinematic Scenes with Blender & Photoshop]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-xiaofanzhang-us-workflow-260705/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-xiaofanzhang-us-workflow-260705/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/creativecoder-andreiondecastro-us-creativecoding-260628/</guid>
       <pubDate>Sun, 28 Jun 2026 04:47:29 GMT</pubDate>
       <description><![CDATA[Creative Coding Essentials for Design & Motion 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[A Professional's Guide to Enhancing Figure Painting Skills]]></title>
-      <link>https://coloso-gl-blog.vercel.app/figurepainter-shinyasuzuki-us-figurepainting-260628/</link>
-      <guid>https://coloso-gl-blog.vercel.app/figurepainter-shinyasuzuki-us-figurepainting-260628/</guid>
-      <pubDate>Sun, 28 Jun 2026 01:01:03 GMT</pubDate>
-      <description><![CDATA[A Professional's Guide to Enhancing Figure Painting Skills 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
