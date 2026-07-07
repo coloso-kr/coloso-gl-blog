@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Character Design Techniques to Improve Style Versatility]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-kuro-us-versatility-260706/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-kuro-us-versatility-260706/</guid>
+      <pubDate>Mon, 06 Jul 2026 07:39:22 GMT</pubDate>
+      <description><![CDATA[Character Design Techniques to Improve Style Versatility 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Perfect the Art of Layout & Pacing for 3 Types of Comics]]></title>
       <link>https://coloso-gl-blog.vercel.app/comicartist-rilun-zh-comic-260706/</link>
       <guid>https://coloso-gl-blog.vercel.app/comicartist-rilun-zh-comic-260706/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/webtoonartist-sakon-us-illustration-260629/</guid>
       <pubDate>Mon, 29 Jun 2026 05:33:37 GMT</pubDate>
       <description><![CDATA[The Ultimate Webtoon Illustration Tool Kit 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Variable Type: From Experimental Designs to Branding Applications]]></title>
-      <link>https://coloso-gl-blog.vercel.app/graphicdesigner-clementcases-us-typography-260629/</link>
-      <guid>https://coloso-gl-blog.vercel.app/graphicdesigner-clementcases-us-typography-260629/</guid>
-      <pubDate>Mon, 29 Jun 2026 04:47:32 GMT</pubDate>
-      <description><![CDATA[Variable Type: From Experimental Designs to Branding Applications 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
