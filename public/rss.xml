@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Becoming a Manga Artist: From Storyline to Creating Your Manga]]></title>
+      <link>https://coloso-gl-blog.vercel.app/mangaartist-linneakataja-us-manga-260708/</link>
+      <guid>https://coloso-gl-blog.vercel.app/mangaartist-linneakataja-us-manga-260708/</guid>
+      <pubDate>Wed, 08 Jul 2026 01:01:05 GMT</pubDate>
+      <description><![CDATA[Becoming a Manga Artist: From Storyline to Creating Your Manga 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Introduction to Modeling Cel-Shaded Characters in Blender]]></title>
       <link>https://coloso-gl-blog.vercel.app/cgdesigner-wogli-us-cel-shading-260707/</link>
       <guid>https://coloso-gl-blog.vercel.app/cgdesigner-wogli-us-cel-shading-260707/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dfashiondesigner-jonsanchez-us-streetwear-260630/</guid>
       <pubDate>Tue, 30 Jun 2026 07:39:19 GMT</pubDate>
       <description><![CDATA[Become a Digital Fashion Expert: CLO 3D for Streetwear 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Ready Set Go! Creating and Stylizing Your Character 0-100]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-nompang-us-illustration-260630/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-nompang-us-illustration-260630/</guid>
-      <pubDate>Tue, 30 Jun 2026 05:33:37 GMT</pubDate>
-      <description><![CDATA[Ready Set Go! Creating and Stylizing Your Character 0-100 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
