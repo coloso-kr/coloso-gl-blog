@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Introduction to Modeling Cel-Shaded Characters in Blender]]></title>
+      <link>https://coloso-gl-blog.vercel.app/cgdesigner-wogli-us-cel-shading-260707/</link>
+      <guid>https://coloso-gl-blog.vercel.app/cgdesigner-wogli-us-cel-shading-260707/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:39:23 GMT</pubDate>
+      <description><![CDATA[Introduction to Modeling Cel-Shaded Characters in Blender 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[The 100-Chapter Guide to Finding Your Style Through Coloring Techniques]]></title>
       <link>https://coloso-gl-blog.vercel.app/100chapter-coloring2-us-coloring-260707/</link>
       <guid>https://coloso-gl-blog.vercel.app/100chapter-coloring2-us-coloring-260707/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-nompang-us-illustration-260630/</guid>
       <pubDate>Tue, 30 Jun 2026 05:33:37 GMT</pubDate>
       <description><![CDATA[Ready Set Go! Creating and Stylizing Your Character 0-100 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Pixel Art Characters for Beginners]]></title>
-      <link>https://coloso-gl-blog.vercel.app/pixelartist-hyatsu-us-pixelart-260630/</link>
-      <guid>https://coloso-gl-blog.vercel.app/pixelartist-hyatsu-us-pixelart-260630/</guid>
-      <pubDate>Tue, 30 Jun 2026 04:47:31 GMT</pubDate>
-      <description><![CDATA[Pixel Art Characters for Beginners 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
