@@ -1,5 +1,5 @@
 ---
-title: "Stop Drawing Stiff Bodies! Hood's Guide to Dynamic Anatomy"
+title: "Master Female Character Anatomy: HOOD's Digital Illustration Workflow"
 description: "hood's illust course review"
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
