@@ -1,6 +1,6 @@
 ---
 title: "How to Create Cinematic 3D Characters: ZBrush Sculpting Masterclass"
-description: "nganhoang's mediadesign course review"
+description: "Learn how to translate 2D concept art into cinematic 3D characters. Master ZBrush anatomical sculpting, XGen grooming, and cinematic lighting with 3D Artist Ngan Hoang"
 pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 author: "nganhoang"
