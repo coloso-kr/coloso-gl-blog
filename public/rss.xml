@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[K-Pop Music Production: From A to Z]]></title>
+      <link>https://coloso-gl-blog.vercel.app/publisher-prismfilter-us-music-260709/</link>
+      <guid>https://coloso-gl-blog.vercel.app/publisher-prismfilter-us-music-260709/</guid>
+      <pubDate>Thu, 09 Jul 2026 01:01:05 GMT</pubDate>
+      <description><![CDATA[K-Pop Music Production: From A to Z 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Maya 3D Animation: From Basics to Body & Facial Expressions]]></title>
       <link>https://coloso-gl-blog.vercel.app/3danimation-yanghyeonseok-us-animation-260708/</link>
       <guid>https://coloso-gl-blog.vercel.app/3danimation-yanghyeonseok-us-animation-260708/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dartist-somuch3d-us-character-260701/</guid>
       <pubDate>Wed, 01 Jul 2026 07:39:37 GMT</pubDate>
       <description><![CDATA[Creating Unreal 3D Characters from Epic Concepts 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Surreal Visuals, 3D Artwork, and VFX Compositing]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dgraphicartist-calllmechi-us-surrealism-260701/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dgraphicartist-calllmechi-us-surrealism-260701/</guid>
-      <pubDate>Wed, 01 Jul 2026 05:33:50 GMT</pubDate>
-      <description><![CDATA[Surreal Visuals, 3D Artwork, and VFX Compositing 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
