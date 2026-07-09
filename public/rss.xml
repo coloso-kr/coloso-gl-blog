@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Mastering Open World Level Design in Unreal]]></title>
+      <link>https://coloso-gl-blog.vercel.app/leveldesigner-bisk2-us-review-260709/</link>
+      <guid>https://coloso-gl-blog.vercel.app/leveldesigner-bisk2-us-review-260709/</guid>
+      <pubDate>Thu, 09 Jul 2026 04:47:27 GMT</pubDate>
+      <description><![CDATA[Mastering Open World Level Design in Unreal 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[K-Pop Music Production: From A to Z]]></title>
       <link>https://coloso-gl-blog.vercel.app/publisher-prismfilter-us-music-260709/</link>
       <guid>https://coloso-gl-blog.vercel.app/publisher-prismfilter-us-music-260709/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/conceptartist-ahnjoonhyung-us-perspective-260702/</guid>
       <pubDate>Thu, 02 Jul 2026 01:01:10 GMT</pubDate>
       <description><![CDATA[Perspective Drawing Essentials: From Backgrounds to Objects 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Creating Unreal 3D Characters from Epic Concepts]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dartist-somuch3d-us-character-260701/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dartist-somuch3d-us-character-260701/</guid>
-      <pubDate>Wed, 01 Jul 2026 07:39:37 GMT</pubDate>
-      <description><![CDATA[Creating Unreal 3D Characters from Epic Concepts 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
