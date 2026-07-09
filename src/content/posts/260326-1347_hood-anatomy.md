@@ -1,6 +1,6 @@
 ---
 title: "Master Female Character Anatomy: HOOD's Digital Illustration Workflow"
-description: "hood's illust course review"
+description: "Struggling with stiff character poses? Learn how to master stylized anatomy, streamline your digital art workflow, and draw dynamic female characters with HOOD's expert guide"
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 author: "hood"
