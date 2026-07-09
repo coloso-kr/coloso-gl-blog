@@ -1,6 +1,6 @@
 ---
-title: "Mogoon: Fundamentals of Stylized Character Art"
-description: "Mogoon's illust course review"
+title: "How to Draw Stylized Characters: Perspective, Light, and Color Tutorial"
+description: "Struggling with flat characters? Master the fundamentals of stylized character art with Illustrator Mogoon. Learn perspective, shape-based construction, lighting, and how to overcome creative block"
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 author: "Mogoon"
@@ -15,11 +15,11 @@ tags:
   - "CourseReview"
 ---
 
-## 🛠️ Key Skills & Details That Define Professional Quality
+## 🛠️ Core Fundamentals for Professional Stylized Art
 
 ![](https://cdn.day1company.io/prod/uploads/202105/125313-302/portfolio02.png)
 
-Illustrator Mogoon's approach to stylized character art emphasizes a deep understanding of foundational art principles and their practical application.
+Illustrator Mogoon’s approach to stylized character art emphasizes a deep understanding of foundational art principles and their practical application. This class is designed to build a rock-solid foundation for your digital art journey.
 
 *   **Mastering Space and Perspective:** Mogoon breaks down perspective drawing into digestible concepts, starting with cubes to understand spatial relationships. They cover 1, 2, and 3-point perspectives, along with techniques for drawing skewed objects and applying perspective measurements. This ensures characters and environments feel grounded and believable.
 *   **Shape-Based Construction:** Learning to break down complex forms into basic shapes is critical. Mogoon demonstrates how to apply this to everything from simple objects to the human body. This shape-driven approach allows for logical analysis and stylization of anatomy, leading to more dynamic and well-constructed characters.
