@@ -1,5 +1,5 @@
 ---
-title: "nganhoang: Transforming Your Sketch Into a Cinematic 3D Character	"
+title: "How to Create Cinematic 3D Characters: ZBrush Sculpting Masterclass"
 description: "nganhoang's mediadesign course review"
 pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
@@ -16,6 +16,7 @@ tags:
 ---
 
 ## 🛠️ Key Skills & Details That Define Professional Quality
+![](https://cdn.day1company.io/prod/uploads/202508/150009-1977/reason-3d-artist-ngan-hoang.webp)
 
 Translating 2D concepts into compelling 3D characters involves a robust skillset that professionals meticulously refine. This class dives deep into practical techniques that go beyond basic software functions.
 
@@ -30,6 +31,7 @@ Translating 2D concepts into compelling 3D characters involves a robust skillset
 ---
 
 ## 💬 Frequently Asked Questions
+![](https://cdn.day1company.io/prod/uploads/202508/150546-1977/example-3d-artist-ngan-hoang-15.webp)
 
 **Q. How does a 3D Artist effectively translate a 2D concept sketch into a compelling 3D character?**
 
