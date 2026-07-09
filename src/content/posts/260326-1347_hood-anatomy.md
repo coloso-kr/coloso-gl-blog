@@ -16,6 +16,7 @@ tags:
 ---
 
 ## 💡 3 Expert Hacks for Better Anatomy & Faster Workflow
+![](https://cdn.day1company.io/prod/uploads/202408/152615-1093/kr-illustrator-hood-example-part02-06.webp)
 
 ### 1. Mastering Stylized Anatomy: Beyond the Basics
 This isn't just about memorizing bone and muscle. It’s about understanding how those forms translate into a **stylized** aesthetic. Think about the core principles HOOD emphasizes: how to exaggerate or simplify anatomical features to enhance the character's personality and appeal, rather than just replicating a photograph. It’s about shifting how you think about anatomy – not as a rigid set of rules, but as a dynamic foundation for creative expression.
@@ -56,7 +57,6 @@ A. By adopting a structured workflow that prioritizes key elements and utilizes 
 ---
 
 ## 👉 Want to Go Deeper?
-<<Naturally guide readers who want to see the full curriculum to the link below.>>
 
 - **[See HOOD's Full Curriculum](https://coloso.global/en/products/illustrator-hood-us?utm_source=blog&utm_medium=organic&utm_campaign=pro_regular_illustrator-hood-us_auto_all&utm_content=illust_illustrator-hood-us_gsd-autoblog-anatomy-post-260326)**
 
