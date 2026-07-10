@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Get Started with Music Composition]]></title>
+      <link>https://coloso-gl-blog.vercel.app/producer-poptime-us-composition-260709/</link>
+      <guid>https://coloso-gl-blog.vercel.app/producer-poptime-us-composition-260709/</guid>
+      <pubDate>Thu, 09 Jul 2026 07:39:24 GMT</pubDate>
+      <description><![CDATA[Get Started with Music Composition 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Bring Life Into Your Drawings: a Combination of Realism and Anime Art]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-mungduck-us-anime-260709/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-mungduck-us-anime-260709/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/2dgraphicdesigner-lumina-us-animation-260702/</guid>
       <pubDate>Thu, 02 Jul 2026 05:33:36 GMT</pubDate>
       <description><![CDATA[Bring Your Favorite Characters to Life: A Beginner’s Guide to Animating Illustrations 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Creating a Fully Realized Scene Prop by Prop]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-luhanyaoyao-us-review-260702/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-luhanyaoyao-us-review-260702/</guid>
-      <pubDate>Thu, 02 Jul 2026 04:47:33 GMT</pubDate>
-      <description><![CDATA[Creating a Fully Realized Scene Prop by Prop 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
