@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[All-in-One 3D VTuber Streaming Setup with Warudo]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dvirtualcreator-moraecat-us-warudo-260711/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dvirtualcreator-moraecat-us-warudo-260711/</guid>
+      <pubDate>Sat, 11 Jul 2026 07:39:17 GMT</pubDate>
+      <description><![CDATA[All-in-One 3D VTuber Streaming Setup with Warudo 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[UI/UX Design Using Figma: From Basic to Advanced]]></title>
       <link>https://coloso-gl-blog.vercel.app/uxui-jungdayoung-us-figma-260711/</link>
       <guid>https://coloso-gl-blog.vercel.app/uxui-jungdayoung-us-figma-260711/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/chyanbasic-class-us-illustration-260704/</guid>
       <pubDate>Sat, 04 Jul 2026 05:33:47 GMT</pubDate>
       <description><![CDATA[Class+: Designing Eye-Catching Anime Characters 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anime-Style Illustrations: Composition and Photobashing]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-zeklewa-us-review-260704/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-zeklewa-us-review-260704/</guid>
-      <pubDate>Sat, 04 Jul 2026 04:47:35 GMT</pubDate>
-      <description><![CDATA[Anime-Style Illustrations: Composition and Photobashing 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
