@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Basics of Human Anatomy and Body Mapping]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-uyongu-us-anatomy-260712/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-uyongu-us-anatomy-260712/</guid>
+      <pubDate>Sun, 12 Jul 2026 01:01:02 GMT</pubDate>
+      <description><![CDATA[Basics of Human Anatomy and Body Mapping 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[All-in-One 3D VTuber Streaming Setup with Warudo]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dvirtualcreator-moraecat-us-warudo-260711/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dvirtualcreator-moraecat-us-warudo-260711/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/webtoon-venti-us-webtoon-260704/</guid>
       <pubDate>Sat, 04 Jul 2026 07:39:14 GMT</pubDate>
       <description><![CDATA[Crash Course on Making Action/Fantasy Scripts 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Class+: Designing Eye-Catching Anime Characters]]></title>
-      <link>https://coloso-gl-blog.vercel.app/chyanbasic-class-us-illustration-260704/</link>
-      <guid>https://coloso-gl-blog.vercel.app/chyanbasic-class-us-illustration-260704/</guid>
-      <pubDate>Sat, 04 Jul 2026 05:33:47 GMT</pubDate>
-      <description><![CDATA[Class+: Designing Eye-Catching Anime Characters 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
