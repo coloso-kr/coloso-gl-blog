@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Conceptualizing Your Character: From Design to Illustration]]></title>
+      <link>https://coloso-gl-blog.vercel.app/conceptartist-soyoong-us-character-260713/</link>
+      <guid>https://coloso-gl-blog.vercel.app/conceptartist-soyoong-us-character-260713/</guid>
+      <pubDate>Mon, 13 Jul 2026 05:33:39 GMT</pubDate>
+      <description><![CDATA[Conceptualizing Your Character: From Design to Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating a Full Comic Page: From Script to Inking]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-anandramcheron-us-comic-260713/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-anandramcheron-us-comic-260713/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-rinotuna-fr-characterdesign-260706/</guid>
       <pubDate>Mon, 06 Jul 2026 04:47:26 GMT</pubDate>
       <description><![CDATA[Express Yourself with Character Creation Ideation 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[C4D Animated MV Production: From Concept to Creation]]></title>
-      <link>https://coloso-gl-blog.vercel.app/project-superverymore-us-review-260706/</link>
-      <guid>https://coloso-gl-blog.vercel.app/project-superverymore-us-review-260706/</guid>
-      <pubDate>Mon, 06 Jul 2026 01:01:02 GMT</pubDate>
-      <description><![CDATA[C4D Animated MV Production: From Concept to Creation 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
