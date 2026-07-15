@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[An Industry Expert’s Guide to Streamlining Concept Art Production]]></title>
+      <link>https://coloso-gl-blog.vercel.app/conceptartist-thomasdubois-us-workflow-260715/</link>
+      <guid>https://coloso-gl-blog.vercel.app/conceptartist-thomasdubois-us-workflow-260715/</guid>
+      <pubDate>Wed, 15 Jul 2026 04:47:32 GMT</pubDate>
+      <description><![CDATA[An Industry Expert’s Guide to Streamlining Concept Art Production 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Timeless Anime Essentials: Build, Illuminate, and Own Your Style]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-deme-us-review-260715/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-deme-us-review-260715/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/mangaartist-linneakataja-us-manga-260708/</guid>
       <pubDate>Wed, 08 Jul 2026 01:01:05 GMT</pubDate>
       <description><![CDATA[Becoming a Manga Artist: From Storyline to Creating Your Manga 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Introduction to Modeling Cel-Shaded Characters in Blender]]></title>
-      <link>https://coloso-gl-blog.vercel.app/cgdesigner-wogli-us-cel-shading-260707/</link>
-      <guid>https://coloso-gl-blog.vercel.app/cgdesigner-wogli-us-cel-shading-260707/</guid>
-      <pubDate>Tue, 07 Jul 2026 07:39:23 GMT</pubDate>
-      <description><![CDATA[Introduction to Modeling Cel-Shaded Characters in Blender 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
