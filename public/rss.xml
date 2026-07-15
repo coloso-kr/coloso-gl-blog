@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Sculpting a Female Figure with Natural Clothing Folds]]></title>
+      <link>https://coloso-gl-blog.vercel.app/figuremodeler-23rd2-us-zbrush-260714/</link>
+      <guid>https://coloso-gl-blog.vercel.app/figuremodeler-23rd2-us-zbrush-260714/</guid>
+      <pubDate>Tue, 14 Jul 2026 07:39:19 GMT</pubDate>
+      <description><![CDATA[Sculpting a Female Figure with Natural Clothing Folds 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Intro to In-game FX Production Using Niagara]]></title>
       <link>https://coloso-gl-blog.vercel.app/gamegraphic-ryusungwook-us-niagara-260714/</link>
       <guid>https://coloso-gl-blog.vercel.app/gamegraphic-ryusungwook-us-niagara-260714/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/100chapter-coloring2-us-coloring-260707/</guid>
       <pubDate>Tue, 07 Jul 2026 05:33:38 GMT</pubDate>
       <description><![CDATA[The 100-Chapter Guide to Finding Your Style Through Coloring Techniques 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anime-Style VFX Production in Blender]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dcgcreator-kanazawahiroshi-us-blender-260707/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dcgcreator-kanazawahiroshi-us-blender-260707/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:47:28 GMT</pubDate>
-      <description><![CDATA[Anime-Style VFX Production in Blender 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
