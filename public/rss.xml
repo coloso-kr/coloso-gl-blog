@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Mastering Hollywood Character & World Design: 2D and 3D Concept Art]]></title>
+      <link>https://coloso-gl-blog.vercel.app/conceptartist-keltoncram-us-concept-260716/</link>
+      <guid>https://coloso-gl-blog.vercel.app/conceptartist-keltoncram-us-concept-260716/</guid>
+      <pubDate>Thu, 16 Jul 2026 05:34:24 GMT</pubDate>
+      <description><![CDATA[Mastering Hollywood Character & World Design: 2D and 3D Concept Art 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Claz'room: Tackling Down the Art Fundamental]]></title>
       <link>https://coloso-gl-blog.vercel.app/clazroominstructor-nigel-us-illustration-260716/</link>
       <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-nigel-us-illustration-260716/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/leveldesigner-bisk2-us-review-260709/</guid>
       <pubDate>Thu, 09 Jul 2026 04:47:27 GMT</pubDate>
       <description><![CDATA[Mastering Open World Level Design in Unreal 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[K-Pop Music Production: From A to Z]]></title>
-      <link>https://coloso-gl-blog.vercel.app/publisher-prismfilter-us-music-260709/</link>
-      <guid>https://coloso-gl-blog.vercel.app/publisher-prismfilter-us-music-260709/</guid>
-      <pubDate>Thu, 09 Jul 2026 01:01:05 GMT</pubDate>
-      <description><![CDATA[K-Pop Music Production: From A to Z 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
