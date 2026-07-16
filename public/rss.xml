@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Class+: Learning High-Quality Coloring Techniques]]></title>
+      <link>https://coloso-gl-blog.vercel.app/gatan-class-us-coloring-260716/</link>
+      <guid>https://coloso-gl-blog.vercel.app/gatan-class-us-coloring-260716/</guid>
+      <pubDate>Thu, 16 Jul 2026 01:01:08 GMT</pubDate>
+      <description><![CDATA[Class+: Learning High-Quality Coloring Techniques 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Anime-style Background Illustration Drawing with Object Production]]></title>
       <link>https://coloso-gl-blog.vercel.app/conceptartist-onsak-us-concept-art-260715/</link>
       <guid>https://coloso-gl-blog.vercel.app/conceptartist-onsak-us-concept-art-260715/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3danimation-yanghyeonseok-us-animation-260708/</guid>
       <pubDate>Wed, 08 Jul 2026 07:39:24 GMT</pubDate>
       <description><![CDATA[Maya 3D Animation: From Basics to Body & Facial Expressions 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Fundamentals of Drawing Anime-Style Faces and Expressions]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-hae0-us-review-260708/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-hae0-us-review-260708/</guid>
-      <pubDate>Wed, 08 Jul 2026 05:33:39 GMT</pubDate>
-      <description><![CDATA[Fundamentals of Drawing Anime-Style Faces and Expressions 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
