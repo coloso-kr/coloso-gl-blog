@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[CLO 3D from Zero to Pro: Fashion, Footwear, and Accessories]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dfashiondesigner-monicafindeis-us-digital-260717/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dfashiondesigner-monicafindeis-us-digital-260717/</guid>
+      <pubDate>Fri, 17 Jul 2026 07:39:23 GMT</pubDate>
+      <description><![CDATA[CLO 3D from Zero to Pro: Fashion, Footwear, and Accessories 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[From Script to Screen: Storyboarding for Commercials & Games]]></title>
       <link>https://coloso-gl-blog.vercel.app/artdirector-rogerhom-us-review-260717/</link>
       <guid>https://coloso-gl-blog.vercel.app/artdirector-rogerhom-us-review-260717/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/vtuber-yumetengu-us-3d-modeling-260710/</guid>
       <pubDate>Fri, 10 Jul 2026 05:33:37 GMT</pubDate>
       <description><![CDATA[Creating 3D Characters and Worldviews with Blender and UE5 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Ultimate Guide to Branding: From Sketch to Presentation]]></title>
-      <link>https://coloso-gl-blog.vercel.app/designer&artdirector-sasykmihal-us-review-260710/</link>
-      <guid>https://coloso-gl-blog.vercel.app/designer&artdirector-sasykmihal-us-review-260710/</guid>
-      <pubDate>Fri, 10 Jul 2026 04:47:28 GMT</pubDate>
-      <description><![CDATA[Ultimate Guide to Branding: From Sketch to Presentation 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
