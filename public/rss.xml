@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Pixel Animation that Breathes Life to the Characters]]></title>
+      <link>https://coloso-gl-blog.vercel.app/pixelartist-malgoosix-us-review-260718/</link>
+      <guid>https://coloso-gl-blog.vercel.app/pixelartist-malgoosix-us-review-260718/</guid>
+      <pubDate>Sat, 18 Jul 2026 01:01:07 GMT</pubDate>
+      <description><![CDATA[Pixel Animation that Breathes Life to the Characters 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[CLO 3D from Zero to Pro: Fashion, Footwear, and Accessories]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dfashiondesigner-monicafindeis-us-digital-260717/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dfashiondesigner-monicafindeis-us-digital-260717/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-chawak-us-illustration-260710/</guid>
       <pubDate>Fri, 10 Jul 2026 07:39:25 GMT</pubDate>
       <description><![CDATA[Cinematic Character Illustration: World-Building to Portfolio Development 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Creating 3D Characters and Worldviews with Blender and UE5]]></title>
-      <link>https://coloso-gl-blog.vercel.app/vtuber-yumetengu-us-3d-modeling-260710/</link>
-      <guid>https://coloso-gl-blog.vercel.app/vtuber-yumetengu-us-3d-modeling-260710/</guid>
-      <pubDate>Fri, 10 Jul 2026 05:33:37 GMT</pubDate>
-      <description><![CDATA[Creating 3D Characters and Worldviews with Blender and UE5 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
