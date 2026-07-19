@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[100-Chapter Guide to Game Animation: Basics to Employment]]></title>
+      <link>https://coloso-gl-blog.vercel.app/100chapter-leemusong-us-animation-260719/</link>
+      <guid>https://coloso-gl-blog.vercel.app/100chapter-leemusong-us-animation-260719/</guid>
+      <pubDate>Sun, 19 Jul 2026 01:01:05 GMT</pubDate>
+      <description><![CDATA[100-Chapter Guide to Game Animation: Basics to Employment 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Create Your Own Color: Mastering Stylization]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-yvotoro-us-blending-260718/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-yvotoro-us-blending-260718/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dvirtualcreator-moraecat-us-warudo-260711/</guid>
       <pubDate>Sat, 11 Jul 2026 07:39:17 GMT</pubDate>
       <description><![CDATA[All-in-One 3D VTuber Streaming Setup with Warudo 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[UI/UX Design Using Figma: From Basic to Advanced]]></title>
-      <link>https://coloso-gl-blog.vercel.app/uxui-jungdayoung-us-figma-260711/</link>
-      <guid>https://coloso-gl-blog.vercel.app/uxui-jungdayoung-us-figma-260711/</guid>
-      <pubDate>Sat, 11 Jul 2026 05:33:43 GMT</pubDate>
-      <description><![CDATA[UI/UX Design Using Figma: From Basic to Advanced 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
