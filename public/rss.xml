@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Create Concept Art Using Your Character’s Story]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-parkpyeongjun2-us-illustration-260720/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-parkpyeongjun2-us-illustration-260720/</guid>
+      <pubDate>Mon, 20 Jul 2026 04:47:28 GMT</pubDate>
+      <description><![CDATA[Create Concept Art Using Your Character’s Story 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Create 3D Character Animations With Unity]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dcgcreator-nonolu-us-animation-260720/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dcgcreator-nonolu-us-animation-260720/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/creative-injaechoi-us-photorealism-260713/</guid>
       <pubDate>Mon, 13 Jul 2026 01:01:02 GMT</pubDate>
       <description><![CDATA[Interior Design & Architecture with Blender 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Adaptation and Continuity Production Methods to Create Immersive Webtoons]]></title>
-      <link>https://coloso-gl-blog.vercel.app/webtoon-herelee-us-storyboarding-260712/</link>
-      <guid>https://coloso-gl-blog.vercel.app/webtoon-herelee-us-storyboarding-260712/</guid>
-      <pubDate>Sun, 12 Jul 2026 07:39:18 GMT</pubDate>
-      <description><![CDATA[Adaptation and Continuity Production Methods to Create Immersive Webtoons 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
