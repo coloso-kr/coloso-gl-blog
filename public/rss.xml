@@ -8,6 +8,20 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Create 3D Character Animations With Unity]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dcgcreator-nonolu-us-animation-260720/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dcgcreator-nonolu-us-animation-260720/</guid>
+      <pubDate>Mon, 20 Jul 2026 01:01:06 GMT</pubDate>
+      <description><![CDATA[Create 3D Character Animations With Unity 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Ultimate Arsenal: Dominate Unreal Engine 5 World Creation]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dartist-scottknapp-us-game-environments-260719/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dartist-scottknapp-us-game-environments-260719/</guid>
+      <pubDate>Sun, 19 Jul 2026 07:39:13 GMT</pubDate>
+      <description><![CDATA[Ultimate Arsenal: Dominate Unreal Engine 5 World Creation 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Conceptual Anime-Style Illustration with Trendy Designs]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-ebplus-us-character-design-260719/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-ebplus-us-character-design-260719/</guid>
@@ -202,20 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/webtoon-herelee-us-storyboarding-260712/</guid>
       <pubDate>Sun, 12 Jul 2026 07:39:18 GMT</pubDate>
       <description><![CDATA[Adaptation and Continuity Production Methods to Create Immersive Webtoons 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Bring Your Illustrations to Life: 2D Animation with AE]]></title>
-      <link>https://coloso-gl-blog.vercel.app/2danimator-miua-vn-animation-260712/</link>
-      <guid>https://coloso-gl-blog.vercel.app/2danimator-miua-vn-animation-260712/</guid>
-      <pubDate>Sun, 12 Jul 2026 05:33:40 GMT</pubDate>
-      <description><![CDATA[Bring Your Illustrations to Life: 2D Animation with AE 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[From Shapes to Characters: Core Skills and Strategies for Anime Illustration]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-nekojira-fr-anime-260712/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-nekojira-fr-anime-260712/</guid>
-      <pubDate>Sun, 12 Jul 2026 04:47:36 GMT</pubDate>
-      <description><![CDATA[From Shapes to Characters: Core Skills and Strategies for Anime Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
