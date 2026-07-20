@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Anime-Character Essentials: From Theory to Final Illustration]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-fude-us-fundamentals-260720/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-fude-us-fundamentals-260720/</guid>
+      <pubDate>Mon, 20 Jul 2026 05:33:36 GMT</pubDate>
+      <description><![CDATA[Anime-Character Essentials: From Theory to Final Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Create Concept Art Using Your Character’s Story]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-parkpyeongjun2-us-illustration-260720/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-parkpyeongjun2-us-illustration-260720/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-anandramcheron-us-comic-260713/</guid>
       <pubDate>Mon, 13 Jul 2026 04:47:32 GMT</pubDate>
       <description><![CDATA[Creating a Full Comic Page: From Script to Inking 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Interior Design & Architecture with Blender]]></title>
-      <link>https://coloso-gl-blog.vercel.app/creative-injaechoi-us-photorealism-260713/</link>
-      <guid>https://coloso-gl-blog.vercel.app/creative-injaechoi-us-photorealism-260713/</guid>
-      <pubDate>Mon, 13 Jul 2026 01:01:02 GMT</pubDate>
-      <description><![CDATA[Interior Design & Architecture with Blender 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
