@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Charming Characters and Romance Scene Illustration]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-jii-us-character-260721/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-jii-us-character-260721/</guid>
+      <pubDate>Tue, 21 Jul 2026 01:01:05 GMT</pubDate>
+      <description><![CDATA[Charming Characters and Romance Scene Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[The 60-Chapter Guide to  VTuber Production: Illustration, Rigging, and Debut]]></title>
       <link>https://coloso-gl-blog.vercel.app/60chapter-aurorastudio-us-vtuber-260720/</link>
       <guid>https://coloso-gl-blog.vercel.app/60chapter-aurorastudio-us-vtuber-260720/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/gamegraphic-kimchungkyeom-us-shaders-260713/</guid>
       <pubDate>Mon, 13 Jul 2026 07:39:17 GMT</pubDate>
       <description><![CDATA[Creating Old School Game Effects 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Conceptualizing Your Character: From Design to Illustration]]></title>
-      <link>https://coloso-gl-blog.vercel.app/conceptartist-soyoong-us-character-260713/</link>
-      <guid>https://coloso-gl-blog.vercel.app/conceptartist-soyoong-us-character-260713/</guid>
-      <pubDate>Mon, 13 Jul 2026 05:33:39 GMT</pubDate>
-      <description><![CDATA[Conceptualizing Your Character: From Design to Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
