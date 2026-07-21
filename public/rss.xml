@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Black & White Illustrations: Lineart, Hatching, Inking]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-zero808w-anandramcheron-us-monochromatic-260721/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-zero808w-anandramcheron-us-monochromatic-260721/</guid>
+      <pubDate>Tue, 21 Jul 2026 05:33:46 GMT</pubDate>
+      <description><![CDATA[Black & White Illustrations: Lineart, Hatching, Inking 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[The A to Z of 3DS Max Character Rigging & Scanning]]></title>
       <link>https://coloso-gl-blog.vercel.app/technicaldirector-kimdongseok-us-rigging-260721/</link>
       <guid>https://coloso-gl-blog.vercel.app/technicaldirector-kimdongseok-us-rigging-260721/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/webcomicartist-randowis-us-review-260714/</guid>
       <pubDate>Tue, 14 Jul 2026 04:47:29 GMT</pubDate>
       <description><![CDATA[All About Expressions: Creating Faces That Feel 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Efficient Webtoon Coloring Techniques]]></title>
-      <link>https://coloso-gl-blog.vercel.app/webtoon-kwonseongmok-us-webtoon-coloring-260714/</link>
-      <guid>https://coloso-gl-blog.vercel.app/webtoon-kwonseongmok-us-webtoon-coloring-260714/</guid>
-      <pubDate>Tue, 14 Jul 2026 01:01:07 GMT</pubDate>
-      <description><![CDATA[Efficient Webtoon Coloring Techniques 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
