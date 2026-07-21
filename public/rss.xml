@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[The A to Z of 3DS Max Character Rigging & Scanning]]></title>
+      <link>https://coloso-gl-blog.vercel.app/technicaldirector-kimdongseok-us-rigging-260721/</link>
+      <guid>https://coloso-gl-blog.vercel.app/technicaldirector-kimdongseok-us-rigging-260721/</guid>
+      <pubDate>Tue, 21 Jul 2026 04:47:32 GMT</pubDate>
+      <description><![CDATA[The A to Z of 3DS Max Character Rigging & Scanning 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Charming Characters and Romance Scene Illustration]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-jii-us-character-260721/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-jii-us-character-260721/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/webtoon-kwonseongmok-us-webtoon-coloring-260714/</guid>
       <pubDate>Tue, 14 Jul 2026 01:01:07 GMT</pubDate>
       <description><![CDATA[Efficient Webtoon Coloring Techniques 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Creating Old School Game Effects]]></title>
-      <link>https://coloso-gl-blog.vercel.app/gamegraphic-kimchungkyeom-us-shaders-260713/</link>
-      <guid>https://coloso-gl-blog.vercel.app/gamegraphic-kimchungkyeom-us-shaders-260713/</guid>
-      <pubDate>Mon, 13 Jul 2026 07:39:17 GMT</pubDate>
-      <description><![CDATA[Creating Old School Game Effects 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
