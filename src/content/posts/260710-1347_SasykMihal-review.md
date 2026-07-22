@@ -1,5 +1,5 @@
 ---
-title: "Mastering \[Specific Skill]: Expert Techniques Revealed"
+title: "Mastering [Specific Skill]: Expert Techniques Revealed"
 description: "SasykMihal's graphicdesign course review"
 pubDate: "2026-07-10"
 updatedDate: "2026-07-10"
