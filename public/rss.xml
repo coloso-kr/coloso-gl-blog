@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Intro to Creating Photorealistic Backgrounds with Details]]></title>
+      <link>https://coloso-gl-blog.vercel.app/blenderartist-drhuchu-us-realism-260721/</link>
+      <guid>https://coloso-gl-blog.vercel.app/blenderartist-drhuchu-us-realism-260721/</guid>
+      <pubDate>Tue, 21 Jul 2026 07:39:16 GMT</pubDate>
+      <description><![CDATA[Intro to Creating Photorealistic Backgrounds with Details 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Black & White Illustrations: Lineart, Hatching, Inking]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-zero808w-anandramcheron-us-monochromatic-260721/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-zero808w-anandramcheron-us-monochromatic-260721/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/gamegraphic-ryusungwook-us-niagara-260714/</guid>
       <pubDate>Tue, 14 Jul 2026 05:33:42 GMT</pubDate>
       <description><![CDATA[Intro to In-game FX Production Using Niagara 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[All About Expressions: Creating Faces That Feel]]></title>
-      <link>https://coloso-gl-blog.vercel.app/webcomicartist-randowis-us-review-260714/</link>
-      <guid>https://coloso-gl-blog.vercel.app/webcomicartist-randowis-us-review-260714/</guid>
-      <pubDate>Tue, 14 Jul 2026 04:47:29 GMT</pubDate>
-      <description><![CDATA[All About Expressions: Creating Faces That Feel 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
