@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Emotionally-Charged Isometric Artwork in Blender]]></title>
+      <link>https://coloso-gl-blog.vercel.app/blender-jangseungpil-us-review-260722/</link>
+      <guid>https://coloso-gl-blog.vercel.app/blender-jangseungpil-us-review-260722/</guid>
+      <pubDate>Wed, 22 Jul 2026 07:39:16 GMT</pubDate>
+      <description><![CDATA[Creating Emotionally-Charged Isometric Artwork in Blender 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Intro to Illustration Artwork for Graphic Design]]></title>
       <link>https://coloso-gl-blog.vercel.app/graphicdesign-kimjehyung-us-review-260722/</link>
       <guid>https://coloso-gl-blog.vercel.app/graphicdesign-kimjehyung-us-review-260722/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-jnamelotakerno-us-review-260715/</guid>
       <pubDate>Wed, 15 Jul 2026 05:33:38 GMT</pubDate>
       <description><![CDATA[The Ultimate Guide to Becoming a Pro Illustrator 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[An Industry Expert’s Guide to Streamlining Concept Art Production]]></title>
-      <link>https://coloso-gl-blog.vercel.app/conceptartist-thomasdubois-us-workflow-260715/</link>
-      <guid>https://coloso-gl-blog.vercel.app/conceptartist-thomasdubois-us-workflow-260715/</guid>
-      <pubDate>Wed, 15 Jul 2026 04:47:32 GMT</pubDate>
-      <description><![CDATA[An Industry Expert’s Guide to Streamlining Concept Art Production 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
