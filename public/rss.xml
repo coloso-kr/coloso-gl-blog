@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Understanding & Application of Stylized Character Art for Professional Growth]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-koma-us-illustration-260725/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-koma-us-illustration-260725/</guid>
+      <pubDate>Sat, 25 Jul 2026 01:01:05 GMT</pubDate>
+      <description><![CDATA[Understanding & Application of Stylized Character Art for Professional Growth 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Unreal & Megascan Workflows for Beginner Level Art]]></title>
       <link>https://coloso-gl-blog.vercel.app/levelartist-younkyuchul-us-environment-260724/</link>
       <guid>https://coloso-gl-blog.vercel.app/levelartist-younkyuchul-us-environment-260724/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dfashiondesigner-monicafindeis-us-digital-260717/</guid>
       <pubDate>Fri, 17 Jul 2026 07:39:23 GMT</pubDate>
       <description><![CDATA[CLO 3D from Zero to Pro: Fashion, Footwear, and Accessories 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[From Script to Screen: Storyboarding for Commercials & Games]]></title>
-      <link>https://coloso-gl-blog.vercel.app/artdirector-rogerhom-us-review-260717/</link>
-      <guid>https://coloso-gl-blog.vercel.app/artdirector-rogerhom-us-review-260717/</guid>
-      <pubDate>Fri, 17 Jul 2026 05:33:54 GMT</pubDate>
-      <description><![CDATA[From Script to Screen: Storyboarding for Commercials & Games 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
