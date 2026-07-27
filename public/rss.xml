@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Claz'room College: Introduction to Stylized Portrait Illustration]]></title>
+      <link>https://coloso-gl-blog.vercel.app/clazroominstructor-sinms-us-illustration-260727/</link>
+      <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-sinms-us-illustration-260727/</guid>
+      <pubDate>Mon, 27 Jul 2026 05:33:39 GMT</pubDate>
+      <description><![CDATA[Claz'room College: Introduction to Stylized Portrait Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Live2D Modeling Techniques to Create Natural Movement]]></title>
       <link>https://coloso-gl-blog.vercel.app/live2dmodeler-date-us-review-260727/</link>
       <guid>https://coloso-gl-blog.vercel.app/live2dmodeler-date-us-review-260727/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-parkpyeongjun2-us-illustration-260720/</guid>
       <pubDate>Mon, 20 Jul 2026 04:47:28 GMT</pubDate>
       <description><![CDATA[Create Concept Art Using Your Character’s Story 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Create 3D Character Animations With Unity]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dcgcreator-nonolu-us-animation-260720/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dcgcreator-nonolu-us-animation-260720/</guid>
-      <pubDate>Mon, 20 Jul 2026 01:01:06 GMT</pubDate>
-      <description><![CDATA[Create 3D Character Animations With Unity 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
