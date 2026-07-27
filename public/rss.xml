@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Live2D Modeling Techniques to Create Natural Movement]]></title>
+      <link>https://coloso-gl-blog.vercel.app/live2dmodeler-date-us-review-260727/</link>
+      <guid>https://coloso-gl-blog.vercel.app/live2dmodeler-date-us-review-260727/</guid>
+      <pubDate>Mon, 27 Jul 2026 04:47:32 GMT</pubDate>
+      <description><![CDATA[Live2D Modeling Techniques to Create Natural Movement 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Intro to 3D Anatomy for Character Artists]]></title>
       <link>https://coloso-gl-blog.vercel.app/characterartist-loeungho-us-review-260727/</link>
       <guid>https://coloso-gl-blog.vercel.app/characterartist-loeungho-us-review-260727/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dcgcreator-nonolu-us-animation-260720/</guid>
       <pubDate>Mon, 20 Jul 2026 01:01:06 GMT</pubDate>
       <description><![CDATA[Create 3D Character Animations With Unity 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Ultimate Arsenal: Dominate Unreal Engine 5 World Creation]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dartist-scottknapp-us-game-environments-260719/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dartist-scottknapp-us-game-environments-260719/</guid>
-      <pubDate>Sun, 19 Jul 2026 07:39:13 GMT</pubDate>
-      <description><![CDATA[Ultimate Arsenal: Dominate Unreal Engine 5 World Creation 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
