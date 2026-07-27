@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Intro to 3D Anatomy for Character Artists]]></title>
+      <link>https://coloso-gl-blog.vercel.app/characterartist-loeungho-us-review-260727/</link>
+      <guid>https://coloso-gl-blog.vercel.app/characterartist-loeungho-us-review-260727/</guid>
+      <pubDate>Mon, 27 Jul 2026 01:01:07 GMT</pubDate>
+      <description><![CDATA[Intro to 3D Anatomy for Character Artists 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Interactive Automotive Cinematics: Real-Time Rendering with Unreal Engine]]></title>
       <link>https://coloso-gl-blog.vercel.app/3ddesign-choyoungjo2-us-review-260726/</link>
       <guid>https://coloso-gl-blog.vercel.app/3ddesign-choyoungjo2-us-review-260726/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dartist-scottknapp-us-game-environments-260719/</guid>
       <pubDate>Sun, 19 Jul 2026 07:39:13 GMT</pubDate>
       <description><![CDATA[Ultimate Arsenal: Dominate Unreal Engine 5 World Creation 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Conceptual Anime-Style Illustration with Trendy Designs]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-ebplus-us-character-design-260719/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-ebplus-us-character-design-260719/</guid>
-      <pubDate>Sun, 19 Jul 2026 05:33:45 GMT</pubDate>
-      <description><![CDATA[Conceptual Anime-Style Illustration with Trendy Designs 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
