@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Kitsch 3D Typography with Blender]]></title>
+      <link>https://coloso-gl-blog.vercel.app/graphicdesigner-moonyoung-us-typography-260727/</link>
+      <guid>https://coloso-gl-blog.vercel.app/graphicdesigner-moonyoung-us-typography-260727/</guid>
+      <pubDate>Mon, 27 Jul 2026 07:39:13 GMT</pubDate>
+      <description><![CDATA[Creating Kitsch 3D Typography with Blender 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Claz'room College: Introduction to Stylized Portrait Illustration]]></title>
       <link>https://coloso-gl-blog.vercel.app/clazroominstructor-sinms-us-illustration-260727/</link>
       <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-sinms-us-illustration-260727/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-fude-us-fundamentals-260720/</guid>
       <pubDate>Mon, 20 Jul 2026 05:33:36 GMT</pubDate>
       <description><![CDATA[Anime-Character Essentials: From Theory to Final Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Create Concept Art Using Your Character’s Story]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-parkpyeongjun2-us-illustration-260720/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-parkpyeongjun2-us-illustration-260720/</guid>
-      <pubDate>Mon, 20 Jul 2026 04:47:28 GMT</pubDate>
-      <description><![CDATA[Create Concept Art Using Your Character’s Story 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
