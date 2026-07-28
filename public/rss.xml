@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[3D Concept Illustration: Blender Keyframes with Studio-level Accuracy]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dconceptartist-josusolano-us-conceptart-260728/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dconceptartist-josusolano-us-conceptart-260728/</guid>
+      <pubDate>Tue, 28 Jul 2026 05:33:43 GMT</pubDate>
+      <description><![CDATA[3D Concept Illustration: Blender Keyframes with Studio-level Accuracy 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Portrait Drawing: From Realism to Stylization]]></title>
       <link>https://coloso-gl-blog.vercel.app/clazroominstructor-liangwei-us-portraiture-260728/</link>
       <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-liangwei-us-portraiture-260728/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/technicaldirector-kimdongseok-us-rigging-260721/</guid>
       <pubDate>Tue, 21 Jul 2026 04:47:32 GMT</pubDate>
       <description><![CDATA[The A to Z of 3DS Max Character Rigging & Scanning 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Charming Characters and Romance Scene Illustration]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-jii-us-character-260721/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-jii-us-character-260721/</guid>
-      <pubDate>Tue, 21 Jul 2026 01:01:05 GMT</pubDate>
-      <description><![CDATA[Charming Characters and Romance Scene Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
