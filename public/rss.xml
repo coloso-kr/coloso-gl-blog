@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[The Basics of Character Design: From Simple Shapes to Full Illustration]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-eymbee-us-character-260729/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-eymbee-us-character-260729/</guid>
+      <pubDate>Wed, 29 Jul 2026 04:47:29 GMT</pubDate>
+      <description><![CDATA[The Basics of Character Design: From Simple Shapes to Full Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Boost Your Illustration Quality and Efficiency with Blender]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-kelly-us-review-260729/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-kelly-us-review-260729/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/motiongraphic-ohsoohwan-us-motion-260722/</guid>
       <pubDate>Wed, 22 Jul 2026 01:01:08 GMT</pubDate>
       <description><![CDATA[C4D Motion Design for Social Media Branding 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Intro to Creating Photorealistic Backgrounds with Details]]></title>
-      <link>https://coloso-gl-blog.vercel.app/blenderartist-drhuchu-us-realism-260721/</link>
-      <guid>https://coloso-gl-blog.vercel.app/blenderartist-drhuchu-us-realism-260721/</guid>
-      <pubDate>Tue, 21 Jul 2026 07:39:16 GMT</pubDate>
-      <description><![CDATA[Intro to Creating Photorealistic Backgrounds with Details 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
