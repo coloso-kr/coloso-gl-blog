@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Illustrating & Animating Character Splash Art]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-allenerie-us-character-260728/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-allenerie-us-character-260728/</guid>
+      <pubDate>Tue, 28 Jul 2026 07:39:13 GMT</pubDate>
+      <description><![CDATA[Illustrating & Animating Character Splash Art 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[3D Concept Illustration: Blender Keyframes with Studio-level Accuracy]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dconceptartist-josusolano-us-conceptart-260728/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dconceptartist-josusolano-us-conceptart-260728/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-zero808w-anandramcheron-us-monochromatic-260721/</guid>
       <pubDate>Tue, 21 Jul 2026 05:33:46 GMT</pubDate>
       <description><![CDATA[Black & White Illustrations: Lineart, Hatching, Inking 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The A to Z of 3DS Max Character Rigging & Scanning]]></title>
-      <link>https://coloso-gl-blog.vercel.app/technicaldirector-kimdongseok-us-rigging-260721/</link>
-      <guid>https://coloso-gl-blog.vercel.app/technicaldirector-kimdongseok-us-rigging-260721/</guid>
-      <pubDate>Tue, 21 Jul 2026 04:47:32 GMT</pubDate>
-      <description><![CDATA[The A to Z of 3DS Max Character Rigging & Scanning 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
