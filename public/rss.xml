@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[The 3ds Max Game Animation Bible]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dgameanimator-animatorj-us-review-260730/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dgameanimator-animatorj-us-review-260730/</guid>
+      <pubDate>Thu, 30 Jul 2026 04:47:32 GMT</pubDate>
+      <description><![CDATA[The 3ds Max Game Animation Bible 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Different Layered Cuts by Height and Visual Effects on Clients]]></title>
       <link>https://coloso-gl-blog.vercel.app/hairstylist-choijin-us-haircut-260730/</link>
       <guid>https://coloso-gl-blog.vercel.app/hairstylist-choijin-us-haircut-260730/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-yujiyuan-us-animaldesign-260723/</guid>
       <pubDate>Thu, 23 Jul 2026 01:01:07 GMT</pubDate>
       <description><![CDATA[Claz'room College: Animal Character Design & Painting for Beginners 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Creating Emotionally-Charged Isometric Artwork in Blender]]></title>
-      <link>https://coloso-gl-blog.vercel.app/blender-jangseungpil-us-review-260722/</link>
-      <guid>https://coloso-gl-blog.vercel.app/blender-jangseungpil-us-review-260722/</guid>
-      <pubDate>Wed, 22 Jul 2026 07:39:16 GMT</pubDate>
-      <description><![CDATA[Creating Emotionally-Charged Isometric Artwork in Blender 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
