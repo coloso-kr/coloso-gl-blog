@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[High-Efficiency & High-Quality Production with Midjourney & Stable Diffusion]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3ddesign-kimjinsung-us-prompt-260731/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3ddesign-kimjinsung-us-prompt-260731/</guid>
+      <pubDate>Fri, 31 Jul 2026 01:01:05 GMT</pubDate>
+      <description><![CDATA[High-Efficiency & High-Quality Production with Midjourney & Stable Diffusion 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Learning Product Design Basics through Practice]]></title>
       <link>https://coloso-gl-blog.vercel.app/uxui-leejinjae-us-productdesign-260730/</link>
       <guid>https://coloso-gl-blog.vercel.app/uxui-leejinjae-us-productdesign-260730/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-seoji2-us-character-260723/</guid>
       <pubDate>Thu, 23 Jul 2026 07:39:17 GMT</pubDate>
       <description><![CDATA[Infusing Stylized Characters With Distinct Moods 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[All About Japanese Key Animation: Genga]]></title>
-      <link>https://coloso-gl-blog.vercel.app/2danimator-juliencortey-fr-genga-260723/</link>
-      <guid>https://coloso-gl-blog.vercel.app/2danimator-juliencortey-fr-genga-260723/</guid>
-      <pubDate>Thu, 23 Jul 2026 05:33:41 GMT</pubDate>
-      <description><![CDATA[All About Japanese Key Animation: Genga 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
