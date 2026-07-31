@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Learning Product Design Basics through Practice]]></title>
+      <link>https://coloso-gl-blog.vercel.app/uxui-leejinjae-us-productdesign-260730/</link>
+      <guid>https://coloso-gl-blog.vercel.app/uxui-leejinjae-us-productdesign-260730/</guid>
+      <pubDate>Thu, 30 Jul 2026 07:39:20 GMT</pubDate>
+      <description><![CDATA[Learning Product Design Basics through Practice 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Complete Your Visual Interactive Art Projects with Touch Designer One]]></title>
       <link>https://coloso-gl-blog.vercel.app/mediaartist-joungyunsu-us-touchdesigner-260730/</link>
       <guid>https://coloso-gl-blog.vercel.app/mediaartist-joungyunsu-us-touchdesigner-260730/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/2danimator-juliencortey-fr-genga-260723/</guid>
       <pubDate>Thu, 23 Jul 2026 05:33:41 GMT</pubDate>
       <description><![CDATA[All About Japanese Key Animation: Genga 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Realistic Female Character Modeling]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dcharacterartist-choiyeorum-us-characterartistry-260723/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-choiyeorum-us-characterartistry-260723/</guid>
-      <pubDate>Thu, 23 Jul 2026 04:47:33 GMT</pubDate>
-      <description><![CDATA[Realistic Female Character Modeling 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
