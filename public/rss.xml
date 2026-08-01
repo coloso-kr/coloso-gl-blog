@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Master Figure Drawing and Coloring Skills]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-charactercolor-masterclass-us-illustration-260801/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-charactercolor-masterclass-us-illustration-260801/</guid>
+      <pubDate>Sat, 01 Aug 2026 04:47:29 GMT</pubDate>
+      <description><![CDATA[Master Figure Drawing and Coloring Skills 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Get Your Portfolio Ready: Game & Branding Design]]></title>
       <link>https://coloso-gl-blog.vercel.app/digitalartist-jonathanlam-us-portfolio-260801/</link>
       <guid>https://coloso-gl-blog.vercel.app/digitalartist-jonathanlam-us-portfolio-260801/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-koma-us-illustration-260725/</guid>
       <pubDate>Sat, 25 Jul 2026 01:01:05 GMT</pubDate>
       <description><![CDATA[Understanding & Application of Stylized Character Art for Professional Growth 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Unreal & Megascan Workflows for Beginner Level Art]]></title>
-      <link>https://coloso-gl-blog.vercel.app/levelartist-younkyuchul-us-environment-260724/</link>
-      <guid>https://coloso-gl-blog.vercel.app/levelartist-younkyuchul-us-environment-260724/</guid>
-      <pubDate>Fri, 24 Jul 2026 07:39:16 GMT</pubDate>
-      <description><![CDATA[Unreal & Megascan Workflows for Beginner Level Art 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
