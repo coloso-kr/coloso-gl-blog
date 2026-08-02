@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Character Drawing Master Class to Learn Unique Drawing Styles]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-osuk2seoji-us-character-260802/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-osuk2seoji-us-character-260802/</guid>
+      <pubDate>Sun, 02 Aug 2026 04:47:37 GMT</pubDate>
+      <description><![CDATA[Character Drawing Master Class to Learn Unique Drawing Styles 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[2D Animation Master Class to Create Vibrant Animation]]></title>
       <link>https://coloso-gl-blog.vercel.app/animator-jonghajonghyun-us-review-260802/</link>
       <guid>https://coloso-gl-blog.vercel.app/animator-jonghajonghyun-us-review-260802/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/conceptartist-joelcodina-us-cinematic-260726/</guid>
       <pubDate>Sun, 26 Jul 2026 01:01:05 GMT</pubDate>
       <description><![CDATA[Mastering Cinematic Shots for Film & VFX: From Concept to Final 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Transforming Nature into Particles: From 3D Scanning to Digital Art]]></title>
-      <link>https://coloso-gl-blog.vercel.app/newmediaartist-yuxicao-us-review-260725/</link>
-      <guid>https://coloso-gl-blog.vercel.app/newmediaartist-yuxicao-us-review-260725/</guid>
-      <pubDate>Sat, 25 Jul 2026 07:39:23 GMT</pubDate>
-      <description><![CDATA[Transforming Nature into Particles: From 3D Scanning to Digital Art 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
