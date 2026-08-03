@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Master Surreal Scenes with the C4D & Octane Starter Pack]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dartist-timoflorian-us-surreal-260803/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dartist-timoflorian-us-surreal-260803/</guid>
+      <pubDate>Mon, 03 Aug 2026 04:47:33 GMT</pubDate>
+      <description><![CDATA[Master Surreal Scenes with the C4D & Octane Starter Pack 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Anime Character Mastery: Boys and Girls, Unite!]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-mungduckphaes-us-anatomy-260803/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-mungduckphaes-us-anatomy-260803/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/characterartist-loeungho-us-review-260727/</guid>
       <pubDate>Mon, 27 Jul 2026 01:01:07 GMT</pubDate>
       <description><![CDATA[Intro to 3D Anatomy for Character Artists 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Interactive Automotive Cinematics: Real-Time Rendering with Unreal Engine]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3ddesign-choyoungjo2-us-review-260726/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3ddesign-choyoungjo2-us-review-260726/</guid>
-      <pubDate>Sun, 26 Jul 2026 07:39:23 GMT</pubDate>
-      <description><![CDATA[Interactive Automotive Cinematics: Real-Time Rendering with Unreal Engine 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
