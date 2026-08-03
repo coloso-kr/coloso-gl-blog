@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Turning Anime Characters Into 3D Printable Models]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dcharacterartist-wandah-us-sculpting-260803/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-wandah-us-sculpting-260803/</guid>
+      <pubDate>Mon, 03 Aug 2026 05:33:41 GMT</pubDate>
+      <description><![CDATA[Turning Anime Characters Into 3D Printable Models 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Master Surreal Scenes with the C4D & Octane Starter Pack]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dartist-timoflorian-us-surreal-260803/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dartist-timoflorian-us-surreal-260803/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/live2dmodeler-date-us-review-260727/</guid>
       <pubDate>Mon, 27 Jul 2026 04:47:32 GMT</pubDate>
       <description><![CDATA[Live2D Modeling Techniques to Create Natural Movement 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Intro to 3D Anatomy for Character Artists]]></title>
-      <link>https://coloso-gl-blog.vercel.app/characterartist-loeungho-us-review-260727/</link>
-      <guid>https://coloso-gl-blog.vercel.app/characterartist-loeungho-us-review-260727/</guid>
-      <pubDate>Mon, 27 Jul 2026 01:01:07 GMT</pubDate>
-      <description><![CDATA[Intro to 3D Anatomy for Character Artists 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
