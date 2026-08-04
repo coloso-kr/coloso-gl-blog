@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Fun 3D Character Modeling Using Blender]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dcharacterartist-minjeongshin-us-sculpting-260804/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-minjeongshin-us-sculpting-260804/</guid>
+      <pubDate>Tue, 04 Aug 2026 01:01:12 GMT</pubDate>
+      <description><![CDATA[Fun 3D Character Modeling Using Blender 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[2D Frame by Frame Animation]]></title>
       <link>https://coloso-gl-blog.vercel.app/2danimation-ohseoro-us-animation-260803/</link>
       <guid>https://coloso-gl-blog.vercel.app/2danimation-ohseoro-us-animation-260803/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/graphicdesigner-moonyoung-us-typography-260727/</guid>
       <pubDate>Mon, 27 Jul 2026 07:39:13 GMT</pubDate>
       <description><![CDATA[Creating Kitsch 3D Typography with Blender 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Claz'room College: Introduction to Stylized Portrait Illustration]]></title>
-      <link>https://coloso-gl-blog.vercel.app/clazroominstructor-sinms-us-illustration-260727/</link>
-      <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-sinms-us-illustration-260727/</guid>
-      <pubDate>Mon, 27 Jul 2026 05:33:39 GMT</pubDate>
-      <description><![CDATA[Claz'room College: Introduction to Stylized Portrait Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
