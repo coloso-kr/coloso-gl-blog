@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Realistic Character Design]]></title>
+      <link>https://coloso-gl-blog.vercel.app/conceptartist-namhyoungtaek-us-realism-260804/</link>
+      <guid>https://coloso-gl-blog.vercel.app/conceptartist-namhyoungtaek-us-realism-260804/</guid>
+      <pubDate>Tue, 04 Aug 2026 05:33:40 GMT</pubDate>
+      <description><![CDATA[Realistic Character Design 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Realistic Texturing with Cinema4D & Octane]]></title>
       <link>https://coloso-gl-blog.vercel.app/3ddesign-kimgryun-us-motiondesign-260804/</link>
       <guid>https://coloso-gl-blog.vercel.app/3ddesign-kimgryun-us-motiondesign-260804/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-liangwei-us-portraiture-260728/</guid>
       <pubDate>Tue, 28 Jul 2026 04:47:28 GMT</pubDate>
       <description><![CDATA[Portrait Drawing: From Realism to Stylization 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[[Claz'room College] The Art of Character Drawing: Anatomy, Poses, and Coloring]]></title>
-      <link>https://coloso-gl-blog.vercel.app/clazroominstructor-sinms2-us-review-260728/</link>
-      <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-sinms2-us-review-260728/</guid>
-      <pubDate>Tue, 28 Jul 2026 01:01:06 GMT</pubDate>
-      <description><![CDATA[[Claz'room College] The Art of Character Drawing: Anatomy, Poses, and Coloring 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
