@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[The Complete Guide to Building Sci-fi Worlds in Blender]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dartist-nikolaifletcherfrick-us-blender-sci-fi-world-building-260805/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dartist-nikolaifletcherfrick-us-blender-sci-fi-world-building-260805/</guid>
+      <pubDate>Wed, 05 Aug 2026 05:33:38 GMT</pubDate>
+      <description><![CDATA[The Complete Guide to Building Sci-fi Worlds in Blender 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Future Fashion with Marvelous Designer & Cinema4D]]></title>
       <link>https://coloso-gl-blog.vercel.app/3ddesign-nicholsbryant-us-fashion-260805/</link>
       <guid>https://coloso-gl-blog.vercel.app/3ddesign-nicholsbryant-us-fashion-260805/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-eymbee-us-character-260729/</guid>
       <pubDate>Wed, 29 Jul 2026 04:47:29 GMT</pubDate>
       <description><![CDATA[The Basics of Character Design: From Simple Shapes to Full Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Boost Your Illustration Quality and Efficiency with Blender]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-kelly-us-review-260729/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-kelly-us-review-260729/</guid>
-      <pubDate>Wed, 29 Jul 2026 01:01:10 GMT</pubDate>
-      <description><![CDATA[Boost Your Illustration Quality and Efficiency with Blender 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
