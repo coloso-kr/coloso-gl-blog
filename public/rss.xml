@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[High-Quality Shading & Lighting with Redshift]]></title>
+      <link>https://coloso-gl-blog.vercel.app/motiongraphic-kimyeseong-us-review-260805/</link>
+      <guid>https://coloso-gl-blog.vercel.app/motiongraphic-kimyeseong-us-review-260805/</guid>
+      <pubDate>Wed, 05 Aug 2026 07:39:19 GMT</pubDate>
+      <description><![CDATA[High-Quality Shading & Lighting with Redshift 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[The Complete Guide to Building Sci-fi Worlds in Blender]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dartist-nikolaifletcherfrick-us-blender-sci-fi-world-building-260805/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dartist-nikolaifletcherfrick-us-blender-sci-fi-world-building-260805/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/dictionary-ain-us-workflow-260729/</guid>
       <pubDate>Wed, 29 Jul 2026 05:33:40 GMT</pubDate>
       <description><![CDATA[The 50-Chapter Guide to Mastering AI Design Automation Skills 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The Basics of Character Design: From Simple Shapes to Full Illustration]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-eymbee-us-character-260729/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-eymbee-us-character-260729/</guid>
-      <pubDate>Wed, 29 Jul 2026 04:47:29 GMT</pubDate>
-      <description><![CDATA[The Basics of Character Design: From Simple Shapes to Full Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
