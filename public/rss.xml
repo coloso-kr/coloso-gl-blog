@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Your Own Unique Characters]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-gharliera-us-illustration-260806/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-gharliera-us-illustration-260806/</guid>
+      <pubDate>Thu, 06 Aug 2026 04:47:29 GMT</pubDate>
+      <description><![CDATA[Creating Your Own Unique Characters 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Drawing the Human Body Based on Anatomy]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-seokjunghyun-us-review-260806/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-seokjunghyun-us-review-260806/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/hairstylist-choijin-us-haircut-260730/</guid>
       <pubDate>Thu, 30 Jul 2026 01:01:06 GMT</pubDate>
       <description><![CDATA[Different Layered Cuts by Height and Visual Effects on Clients 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Creating Motion Graphic Artwork with Houdini]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3ddesign-jangyuhwan-us-houdini-260729/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3ddesign-jangyuhwan-us-houdini-260729/</guid>
-      <pubDate>Wed, 29 Jul 2026 07:39:20 GMT</pubDate>
-      <description><![CDATA[Creating Motion Graphic Artwork with Houdini 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
