@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[A Comprehensive Guide to Creating Your Own Character Design]]></title>
+      <link>https://coloso-gl-blog.vercel.app/characterdesigner-kevinglint-us-review-260806/</link>
+      <guid>https://coloso-gl-blog.vercel.app/characterdesigner-kevinglint-us-review-260806/</guid>
+      <pubDate>Thu, 06 Aug 2026 05:33:53 GMT</pubDate>
+      <description><![CDATA[A Comprehensive Guide to Creating Your Own Character Design 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating Your Own Unique Characters]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-gharliera-us-illustration-260806/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-gharliera-us-illustration-260806/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dgameanimator-animatorj-us-review-260730/</guid>
       <pubDate>Thu, 30 Jul 2026 04:47:32 GMT</pubDate>
       <description><![CDATA[The 3ds Max Game Animation Bible 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Different Layered Cuts by Height and Visual Effects on Clients]]></title>
-      <link>https://coloso-gl-blog.vercel.app/hairstylist-choijin-us-haircut-260730/</link>
-      <guid>https://coloso-gl-blog.vercel.app/hairstylist-choijin-us-haircut-260730/</guid>
-      <pubDate>Thu, 30 Jul 2026 01:01:06 GMT</pubDate>
-      <description><![CDATA[Different Layered Cuts by Height and Visual Effects on Clients 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
