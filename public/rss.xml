@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Drawing the Human Body Based on Anatomy]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-seokjunghyun-us-review-260806/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-seokjunghyun-us-review-260806/</guid>
+      <pubDate>Thu, 06 Aug 2026 01:01:14 GMT</pubDate>
+      <description><![CDATA[Drawing the Human Body Based on Anatomy 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[High-Quality Shading & Lighting with Redshift]]></title>
       <link>https://coloso-gl-blog.vercel.app/motiongraphic-kimyeseong-us-review-260805/</link>
       <guid>https://coloso-gl-blog.vercel.app/motiongraphic-kimyeseong-us-review-260805/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3ddesign-jangyuhwan-us-houdini-260729/</guid>
       <pubDate>Wed, 29 Jul 2026 07:39:20 GMT</pubDate>
       <description><![CDATA[Creating Motion Graphic Artwork with Houdini 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The 50-Chapter Guide to Mastering AI Design Automation Skills]]></title>
-      <link>https://coloso-gl-blog.vercel.app/dictionary-ain-us-workflow-260729/</link>
-      <guid>https://coloso-gl-blog.vercel.app/dictionary-ain-us-workflow-260729/</guid>
-      <pubDate>Wed, 29 Jul 2026 05:33:40 GMT</pubDate>
-      <description><![CDATA[The 50-Chapter Guide to Mastering AI Design Automation Skills 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
