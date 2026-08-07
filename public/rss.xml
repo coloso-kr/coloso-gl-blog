@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Aesthetic 2D Motion Graphics with After Effects]]></title>
+      <link>https://coloso-gl-blog.vercel.app/motiongraphic-parksungwoo-us-animation-260806/</link>
+      <guid>https://coloso-gl-blog.vercel.app/motiongraphic-parksungwoo-us-animation-260806/</guid>
+      <pubDate>Thu, 06 Aug 2026 07:39:13 GMT</pubDate>
+      <description><![CDATA[Creating Aesthetic 2D Motion Graphics with After Effects 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[A Comprehensive Guide to Creating Your Own Character Design]]></title>
       <link>https://coloso-gl-blog.vercel.app/characterdesigner-kevinglint-us-review-260806/</link>
       <guid>https://coloso-gl-blog.vercel.app/characterdesigner-kevinglint-us-review-260806/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/mediaartist-joungyunsu-us-touchdesigner-260730/</guid>
       <pubDate>Thu, 30 Jul 2026 05:33:38 GMT</pubDate>
       <description><![CDATA[Complete Your Visual Interactive Art Projects with Touch Designer One 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The 3ds Max Game Animation Bible]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dgameanimator-animatorj-us-review-260730/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dgameanimator-animatorj-us-review-260730/</guid>
-      <pubDate>Thu, 30 Jul 2026 04:47:32 GMT</pubDate>
-      <description><![CDATA[The 3ds Max Game Animation Bible 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
