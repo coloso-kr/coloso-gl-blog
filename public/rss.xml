@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[2D Action Animation Starter Pack]]></title>
+      <link>https://coloso-gl-blog.vercel.app/2danimator-marykim-us-animation-260807/</link>
+      <guid>https://coloso-gl-blog.vercel.app/2danimator-marykim-us-animation-260807/</guid>
+      <pubDate>Fri, 07 Aug 2026 05:33:44 GMT</pubDate>
+      <description><![CDATA[2D Action Animation Starter Pack 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[All About Japanese Key Animation: Genga]]></title>
       <link>https://coloso-gl-blog.vercel.app/2danimator-juliencortey-us-review-260807/</link>
       <guid>https://coloso-gl-blog.vercel.app/2danimator-juliencortey-us-review-260807/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/creative-bbodx-us-review-260731/</guid>
       <pubDate>Fri, 31 Jul 2026 04:47:33 GMT</pubDate>
       <description><![CDATA[Create a Cute Space with Blender 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[High-Efficiency & High-Quality Production with Midjourney & Stable Diffusion]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3ddesign-kimjinsung-us-prompt-260731/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3ddesign-kimjinsung-us-prompt-260731/</guid>
-      <pubDate>Fri, 31 Jul 2026 01:01:05 GMT</pubDate>
-      <description><![CDATA[High-Efficiency & High-Quality Production with Midjourney & Stable Diffusion 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
