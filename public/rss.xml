@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[All About Japanese Key Animation: Genga]]></title>
+      <link>https://coloso-gl-blog.vercel.app/2danimator-juliencortey-us-review-260807/</link>
+      <guid>https://coloso-gl-blog.vercel.app/2danimator-juliencortey-us-review-260807/</guid>
+      <pubDate>Fri, 07 Aug 2026 04:47:29 GMT</pubDate>
+      <description><![CDATA[All About Japanese Key Animation: Genga 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[The Complete Guide to Creating Futuristic 3D Characters]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dcharacterartist-matthieumartin-us-review-260807/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-matthieumartin-us-review-260807/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3ddesign-kimjinsung-us-prompt-260731/</guid>
       <pubDate>Fri, 31 Jul 2026 01:01:05 GMT</pubDate>
       <description><![CDATA[High-Efficiency & High-Quality Production with Midjourney & Stable Diffusion 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Learning Product Design Basics through Practice]]></title>
-      <link>https://coloso-gl-blog.vercel.app/uxui-leejinjae-us-productdesign-260730/</link>
-      <guid>https://coloso-gl-blog.vercel.app/uxui-leejinjae-us-productdesign-260730/</guid>
-      <pubDate>Thu, 30 Jul 2026 07:39:20 GMT</pubDate>
-      <description><![CDATA[Learning Product Design Basics through Practice 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
