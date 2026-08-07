@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[The Complete Guide to Creating Futuristic 3D Characters]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dcharacterartist-matthieumartin-us-review-260807/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-matthieumartin-us-review-260807/</guid>
+      <pubDate>Fri, 07 Aug 2026 01:01:08 GMT</pubDate>
+      <description><![CDATA[The Complete Guide to Creating Futuristic 3D Characters 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating Aesthetic 2D Motion Graphics with After Effects]]></title>
       <link>https://coloso-gl-blog.vercel.app/motiongraphic-parksungwoo-us-animation-260806/</link>
       <guid>https://coloso-gl-blog.vercel.app/motiongraphic-parksungwoo-us-animation-260806/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/uxui-leejinjae-us-productdesign-260730/</guid>
       <pubDate>Thu, 30 Jul 2026 07:39:20 GMT</pubDate>
       <description><![CDATA[Learning Product Design Basics through Practice 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Complete Your Visual Interactive Art Projects with Touch Designer One]]></title>
-      <link>https://coloso-gl-blog.vercel.app/mediaartist-joungyunsu-us-touchdesigner-260730/</link>
-      <guid>https://coloso-gl-blog.vercel.app/mediaartist-joungyunsu-us-touchdesigner-260730/</guid>
-      <pubDate>Thu, 30 Jul 2026 05:33:38 GMT</pubDate>
-      <description><![CDATA[Complete Your Visual Interactive Art Projects with Touch Designer One 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
