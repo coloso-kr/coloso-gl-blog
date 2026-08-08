@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Fundamentals of Semi Realistic Character Illustration]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-cindylaw-us-review-260808/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-cindylaw-us-review-260808/</guid>
+      <pubDate>Sat, 08 Aug 2026 05:33:50 GMT</pubDate>
+      <description><![CDATA[Fundamentals of Semi Realistic Character Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Illustrating Male Characters with Perfect Line Art]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-kimhyunkyu-us-illustration-260808/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-kimhyunkyu-us-illustration-260808/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-charactercolor-masterclass-us-illustration-260801/</guid>
       <pubDate>Sat, 01 Aug 2026 04:47:29 GMT</pubDate>
       <description><![CDATA[Master Figure Drawing and Coloring Skills 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Get Your Portfolio Ready: Game & Branding Design]]></title>
-      <link>https://coloso-gl-blog.vercel.app/digitalartist-jonathanlam-us-portfolio-260801/</link>
-      <guid>https://coloso-gl-blog.vercel.app/digitalartist-jonathanlam-us-portfolio-260801/</guid>
-      <pubDate>Sat, 01 Aug 2026 01:01:05 GMT</pubDate>
-      <description><![CDATA[Get Your Portfolio Ready: Game & Branding Design 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
