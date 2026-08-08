@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Drawing Cute Background Illustrations Using Silhouette and Color]]></title>
+      <link>https://coloso-gl-blog.vercel.app/conceptartist-jaykim-us-review-260807/</link>
+      <guid>https://coloso-gl-blog.vercel.app/conceptartist-jaykim-us-review-260807/</guid>
+      <pubDate>Fri, 07 Aug 2026 07:39:18 GMT</pubDate>
+      <description><![CDATA[Drawing Cute Background Illustrations Using Silhouette and Color 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[2D Action Animation Starter Pack]]></title>
       <link>https://coloso-gl-blog.vercel.app/2danimator-marykim-us-animation-260807/</link>
       <guid>https://coloso-gl-blog.vercel.app/2danimator-marykim-us-animation-260807/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/gamedeveloper-eugenerho-us-blueprint-260731/</guid>
       <pubDate>Fri, 31 Jul 2026 05:33:42 GMT</pubDate>
       <description><![CDATA[Stage 1: Introduction to Unreal Engine Programming 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Create a Cute Space with Blender]]></title>
-      <link>https://coloso-gl-blog.vercel.app/creative-bbodx-us-review-260731/</link>
-      <guid>https://coloso-gl-blog.vercel.app/creative-bbodx-us-review-260731/</guid>
-      <pubDate>Fri, 31 Jul 2026 04:47:33 GMT</pubDate>
-      <description><![CDATA[Create a Cute Space with Blender 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
