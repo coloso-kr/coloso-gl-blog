@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[A Beginner’s Guide to Creating AAA-Level Textures in Substance Painter]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dcharacterartist-gosari-us-review-260809/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-gosari-us-review-260809/</guid>
+      <pubDate>Sun, 09 Aug 2026 05:33:38 GMT</pubDate>
+      <description><![CDATA[A Beginner’s Guide to Creating AAA-Level Textures in Substance Painter 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[The First Steps in C4D, Complete with Cute 3D Characters]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dgraphicdesigner-byeonkiwoong-us-animation-260809/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dgraphicdesigner-byeonkiwoong-us-animation-260809/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-osuk2seoji-us-character-260802/</guid>
       <pubDate>Sun, 02 Aug 2026 04:47:37 GMT</pubDate>
       <description><![CDATA[Character Drawing Master Class to Learn Unique Drawing Styles 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[2D Animation Master Class to Create Vibrant Animation]]></title>
-      <link>https://coloso-gl-blog.vercel.app/animator-jonghajonghyun-us-review-260802/</link>
-      <guid>https://coloso-gl-blog.vercel.app/animator-jonghajonghyun-us-review-260802/</guid>
-      <pubDate>Sun, 02 Aug 2026 01:01:04 GMT</pubDate>
-      <description><![CDATA[2D Animation Master Class to Create Vibrant Animation 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
