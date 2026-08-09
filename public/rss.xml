@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[The First Steps in C4D, Complete with Cute 3D Characters]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dgraphicdesigner-byeonkiwoong-us-animation-260809/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dgraphicdesigner-byeonkiwoong-us-animation-260809/</guid>
+      <pubDate>Sun, 09 Aug 2026 04:47:32 GMT</pubDate>
+      <description><![CDATA[The First Steps in C4D, Complete with Cute 3D Characters 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[2D Character Animation Master]]></title>
       <link>https://coloso-gl-blog.vercel.app/2danimator-yoonjongha-us-animation-260809/</link>
       <guid>https://coloso-gl-blog.vercel.app/2danimator-yoonjongha-us-animation-260809/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/animator-jonghajonghyun-us-review-260802/</guid>
       <pubDate>Sun, 02 Aug 2026 01:01:04 GMT</pubDate>
       <description><![CDATA[2D Animation Master Class to Create Vibrant Animation 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Ready, Action! Drawing Dynamic Battle Scenes from Scratch]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-gregorsolguillem-us-action-260801/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-gregorsolguillem-us-action-260801/</guid>
-      <pubDate>Sat, 01 Aug 2026 07:39:19 GMT</pubDate>
-      <description><![CDATA[Ready, Action! Drawing Dynamic Battle Scenes from Scratch 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
