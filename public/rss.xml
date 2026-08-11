@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Intro to Game Lighting for Unreal Engine]]></title>
+      <link>https://coloso-gl-blog.vercel.app/lightingartist-yongjaechoi-us-review-260810/</link>
+      <guid>https://coloso-gl-blog.vercel.app/lightingartist-yongjaechoi-us-review-260810/</guid>
+      <pubDate>Mon, 10 Aug 2026 07:39:18 GMT</pubDate>
+      <description><![CDATA[Intro to Game Lighting for Unreal Engine 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Perfect Guide to Smooth Transitions: Scripts to Comic Pages]]></title>
       <link>https://coloso-gl-blog.vercel.app/comicartist-mikimontllo-us-review-260810/</link>
       <guid>https://coloso-gl-blog.vercel.app/comicartist-mikimontllo-us-review-260810/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-wandah-us-sculpting-260803/</guid>
       <pubDate>Mon, 03 Aug 2026 05:33:41 GMT</pubDate>
       <description><![CDATA[Turning Anime Characters Into 3D Printable Models 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Master Surreal Scenes with the C4D & Octane Starter Pack]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dartist-timoflorian-us-surreal-260803/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dartist-timoflorian-us-surreal-260803/</guid>
-      <pubDate>Mon, 03 Aug 2026 04:47:33 GMT</pubDate>
-      <description><![CDATA[Master Surreal Scenes with the C4D & Octane Starter Pack 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
