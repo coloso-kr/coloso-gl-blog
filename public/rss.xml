@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Create Captivating Characters with Detailed Expressions]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-hyulla-us-review-260811/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-hyulla-us-review-260811/</guid>
+      <pubDate>Tue, 11 Aug 2026 01:01:03 GMT</pubDate>
+      <description><![CDATA[Create Captivating Characters with Detailed Expressions 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Intro to Game Lighting for Unreal Engine]]></title>
       <link>https://coloso-gl-blog.vercel.app/lightingartist-yongjaechoi-us-review-260810/</link>
       <guid>https://coloso-gl-blog.vercel.app/lightingartist-yongjaechoi-us-review-260810/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/2danimation-ohseoro-us-animation-260803/</guid>
       <pubDate>Mon, 03 Aug 2026 07:39:14 GMT</pubDate>
       <description><![CDATA[2D Frame by Frame Animation 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Turning Anime Characters Into 3D Printable Models]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dcharacterartist-wandah-us-sculpting-260803/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-wandah-us-sculpting-260803/</guid>
-      <pubDate>Mon, 03 Aug 2026 05:33:41 GMT</pubDate>
-      <description><![CDATA[Turning Anime Characters Into 3D Printable Models 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
