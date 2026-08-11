@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Intro to Artistic Anatomy of the Human Body]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-katokota-us-review-260811/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-katokota-us-review-260811/</guid>
+      <pubDate>Tue, 11 Aug 2026 05:33:36 GMT</pubDate>
+      <description><![CDATA[Intro to Artistic Anatomy of the Human Body 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Mastering Immersive Dialogue in Animation]]></title>
       <link>https://coloso-gl-blog.vercel.app/3danimator-klesis-us-dialogue-260811/</link>
       <guid>https://coloso-gl-blog.vercel.app/3danimator-klesis-us-dialogue-260811/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3ddesign-kimgryun-us-motiondesign-260804/</guid>
       <pubDate>Tue, 04 Aug 2026 04:47:31 GMT</pubDate>
       <description><![CDATA[Realistic Texturing with Cinema4D & Octane 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Fun 3D Character Modeling Using Blender]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dcharacterartist-minjeongshin-us-sculpting-260804/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-minjeongshin-us-sculpting-260804/</guid>
-      <pubDate>Tue, 04 Aug 2026 01:01:12 GMT</pubDate>
-      <description><![CDATA[Fun 3D Character Modeling Using Blender 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
