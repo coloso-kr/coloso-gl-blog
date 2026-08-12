@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Bake the Best Scone with Sejung's Golden Recipe]]></title>
+      <link>https://coloso-gl-blog.vercel.app/pastrychef-kimsejung-us-baking-260812/</link>
+      <guid>https://coloso-gl-blog.vercel.app/pastrychef-kimsejung-us-baking-260812/</guid>
+      <pubDate>Wed, 12 Aug 2026 01:01:11 GMT</pubDate>
+      <description><![CDATA[Bake the Best Scone with Sejung's Golden Recipe 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Revealing the Secrets to JAEIN's Signature Recipes]]></title>
       <link>https://coloso-gl-blog.vercel.app/pastrychef-leejaein-us-ingredients-260811/</link>
       <guid>https://coloso-gl-blog.vercel.app/pastrychef-leejaein-us-ingredients-260811/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/motiongraphic-kangwoosung-us-motion-260804/</guid>
       <pubDate>Tue, 04 Aug 2026 07:39:19 GMT</pubDate>
       <description><![CDATA[C4D Motion Training: From the Basics to Master Level 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Realistic Character Design]]></title>
-      <link>https://coloso-gl-blog.vercel.app/conceptartist-namhyoungtaek-us-realism-260804/</link>
-      <guid>https://coloso-gl-blog.vercel.app/conceptartist-namhyoungtaek-us-realism-260804/</guid>
-      <pubDate>Tue, 04 Aug 2026 05:33:40 GMT</pubDate>
-      <description><![CDATA[Realistic Character Design 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
