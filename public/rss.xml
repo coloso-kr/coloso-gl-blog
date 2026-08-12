@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Revealing the Secrets to JAEIN's Signature Recipes]]></title>
+      <link>https://coloso-gl-blog.vercel.app/pastrychef-leejaein-us-ingredients-260811/</link>
+      <guid>https://coloso-gl-blog.vercel.app/pastrychef-leejaein-us-ingredients-260811/</guid>
+      <pubDate>Tue, 11 Aug 2026 07:39:22 GMT</pubDate>
+      <description><![CDATA[Revealing the Secrets to JAEIN's Signature Recipes 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Intro to Artistic Anatomy of the Human Body]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-katokota-us-review-260811/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-katokota-us-review-260811/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/conceptartist-namhyoungtaek-us-realism-260804/</guid>
       <pubDate>Tue, 04 Aug 2026 05:33:40 GMT</pubDate>
       <description><![CDATA[Realistic Character Design 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Realistic Texturing with Cinema4D & Octane]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3ddesign-kimgryun-us-motiondesign-260804/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3ddesign-kimgryun-us-motiondesign-260804/</guid>
-      <pubDate>Tue, 04 Aug 2026 04:47:31 GMT</pubDate>
-      <description><![CDATA[Realistic Texturing with Cinema4D & Octane 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
