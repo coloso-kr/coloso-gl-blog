@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Perfect Desserts for At-Home Bakers]]></title>
+      <link>https://coloso-gl-blog.vercel.app/pastrychef-jadore-us-baking-260812/</link>
+      <guid>https://coloso-gl-blog.vercel.app/pastrychef-jadore-us-baking-260812/</guid>
+      <pubDate>Wed, 12 Aug 2026 05:33:38 GMT</pubDate>
+      <description><![CDATA[Perfect Desserts for At-Home Bakers 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Easy to Learn Designs for Beautifully Detailed Cakes]]></title>
       <link>https://coloso-gl-blog.vercel.app/pastrychef-kimranlee-us-baking-260812/</link>
       <guid>https://coloso-gl-blog.vercel.app/pastrychef-kimranlee-us-baking-260812/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3ddesign-nicholsbryant-us-fashion-260805/</guid>
       <pubDate>Wed, 05 Aug 2026 04:48:24 GMT</pubDate>
       <description><![CDATA[Future Fashion with Marvelous Designer & Cinema4D 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Bring Scenes to Life with the 2.5D Blender Starter Pack]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dartists-emesnikolai-us-depth-260805/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dartists-emesnikolai-us-depth-260805/</guid>
-      <pubDate>Wed, 05 Aug 2026 01:01:18 GMT</pubDate>
-      <description><![CDATA[Bring Scenes to Life with the 2.5D Blender Starter Pack 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
