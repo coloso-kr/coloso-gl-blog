@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Hollywood VFX with Maya and Nuke]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3ddesign-kimjuneun-us-lensflare-260813/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3ddesign-kimjuneun-us-lensflare-260813/</guid>
+      <pubDate>Thu, 13 Aug 2026 04:47:37 GMT</pubDate>
+      <description><![CDATA[Hollywood VFX with Maya and Nuke 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Intro to 3D Character Modeling]]></title>
       <link>https://coloso-gl-blog.vercel.app/gamegraphic-rosalee-us-pipeline-260813/</link>
       <guid>https://coloso-gl-blog.vercel.app/gamegraphic-rosalee-us-pipeline-260813/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-seokjunghyun-us-review-260806/</guid>
       <pubDate>Thu, 06 Aug 2026 01:01:14 GMT</pubDate>
       <description><![CDATA[Drawing the Human Body Based on Anatomy 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[High-Quality Shading & Lighting with Redshift]]></title>
-      <link>https://coloso-gl-blog.vercel.app/motiongraphic-kimyeseong-us-review-260805/</link>
-      <guid>https://coloso-gl-blog.vercel.app/motiongraphic-kimyeseong-us-review-260805/</guid>
-      <pubDate>Wed, 05 Aug 2026 07:39:19 GMT</pubDate>
-      <description><![CDATA[High-Quality Shading & Lighting with Redshift 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
