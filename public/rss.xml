@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Create Your Own: Concept Art to Design]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-zilali-us-illustration-260815/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-zilali-us-illustration-260815/</guid>
+      <pubDate>Sat, 15 Aug 2026 04:47:37 GMT</pubDate>
+      <description><![CDATA[Create Your Own: Concept Art to Design 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Basics of Drawing Photorealistic Backgrounds]]></title>
       <link>https://coloso-gl-blog.vercel.app/conceptartist-parkjongwon-us-backgrounds-260815/</link>
       <guid>https://coloso-gl-blog.vercel.app/conceptartist-parkjongwon-us-backgrounds-260815/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/conceptartist-jaykim-us-review-260807/</guid>
       <pubDate>Fri, 07 Aug 2026 07:39:18 GMT</pubDate>
       <description><![CDATA[Drawing Cute Background Illustrations Using Silhouette and Color 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[2D Action Animation Starter Pack]]></title>
-      <link>https://coloso-gl-blog.vercel.app/2danimator-marykim-us-animation-260807/</link>
-      <guid>https://coloso-gl-blog.vercel.app/2danimator-marykim-us-animation-260807/</guid>
-      <pubDate>Fri, 07 Aug 2026 05:33:44 GMT</pubDate>
-      <description><![CDATA[2D Action Animation Starter Pack 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
