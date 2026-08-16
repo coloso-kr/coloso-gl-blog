@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[A Complete Guide for Creating Casual Characters with Clip Studio Paint]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-juna-us-illustration-260816/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-juna-us-illustration-260816/</guid>
+      <pubDate>Sun, 16 Aug 2026 04:47:36 GMT</pubDate>
+      <description><![CDATA[A Complete Guide for Creating Casual Characters with Clip Studio Paint 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[C4D Motion Graphics Made Easy]]></title>
       <link>https://coloso-gl-blog.vercel.app/motiongraphic-kimjaeho-us-motiongraphics-260816/</link>
       <guid>https://coloso-gl-blog.vercel.app/motiongraphic-kimjaeho-us-motiongraphics-260816/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dmotiondesigner-alimolavi-us-loop-260808/</guid>
       <pubDate>Sat, 08 Aug 2026 07:39:25 GMT</pubDate>
       <description><![CDATA[Satisfying Loop Animations in Cinema 4D & Octane 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Fundamentals of Semi Realistic Character Illustration]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-cindylaw-us-review-260808/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-cindylaw-us-review-260808/</guid>
-      <pubDate>Sat, 08 Aug 2026 05:33:50 GMT</pubDate>
-      <description><![CDATA[Fundamentals of Semi Realistic Character Illustration 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
