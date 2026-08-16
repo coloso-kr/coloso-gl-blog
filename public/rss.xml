@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[The Anatomy of Distortion]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-palsomnath-us-anatomy-260815/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-palsomnath-us-anatomy-260815/</guid>
+      <pubDate>Sat, 15 Aug 2026 07:39:13 GMT</pubDate>
+      <description><![CDATA[The Anatomy of Distortion 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Create One-of-a-Kind 2.5D Motion Graphics with After Effects]]></title>
       <link>https://coloso-gl-blog.vercel.app/motiongraphic-parkyunho-us-motion-260815/</link>
       <guid>https://coloso-gl-blog.vercel.app/motiongraphic-parkyunho-us-motion-260815/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-kimhyunkyu-us-illustration-260808/</guid>
       <pubDate>Sat, 08 Aug 2026 04:47:30 GMT</pubDate>
       <description><![CDATA[Illustrating Male Characters with Perfect Line Art 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Brand Design Using Blender]]></title>
-      <link>https://coloso-gl-blog.vercel.app/graphicdesign-jungseyoon2-us-blender-260808/</link>
-      <guid>https://coloso-gl-blog.vercel.app/graphicdesign-jungseyoon2-us-blender-260808/</guid>
-      <pubDate>Sat, 08 Aug 2026 01:01:08 GMT</pubDate>
-      <description><![CDATA[Brand Design Using Blender 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
