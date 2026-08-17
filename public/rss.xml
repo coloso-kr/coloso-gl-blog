@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Ultimate Real Time Character Creation: From Basic to Portfolio-Ready]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dartist-yinshiuan-us-character-260816/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dartist-yinshiuan-us-character-260816/</guid>
+      <pubDate>Sun, 16 Aug 2026 07:39:13 GMT</pubDate>
+      <description><![CDATA[Ultimate Real Time Character Creation: From Basic to Portfolio-Ready 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[The All-in-One Skillset for Creating Unique Videos]]></title>
       <link>https://coloso-gl-blog.vercel.app/videocreator-wonologue-us-review-260816/</link>
       <guid>https://coloso-gl-blog.vercel.app/videocreator-wonologue-us-review-260816/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dgraphicdesigner-byeonkiwoong-us-animation-260809/</guid>
       <pubDate>Sun, 09 Aug 2026 04:47:32 GMT</pubDate>
       <description><![CDATA[The First Steps in C4D, Complete with Cute 3D Characters 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[2D Character Animation Master]]></title>
-      <link>https://coloso-gl-blog.vercel.app/2danimator-yoonjongha-us-animation-260809/</link>
-      <guid>https://coloso-gl-blog.vercel.app/2danimator-yoonjongha-us-animation-260809/</guid>
-      <pubDate>Sun, 09 Aug 2026 01:01:04 GMT</pubDate>
-      <description><![CDATA[2D Character Animation Master 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
