@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Stylized & Rendered: Digital Portrait Painting]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-darktownart-us-portrait-260817/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-darktownart-us-portrait-260817/</guid>
+      <pubDate>Mon, 17 Aug 2026 01:01:09 GMT</pubDate>
+      <description><![CDATA[Stylized & Rendered: Digital Portrait Painting 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Ultimate Real Time Character Creation: From Basic to Portfolio-Ready]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dartist-yinshiuan-us-character-260816/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dartist-yinshiuan-us-character-260816/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3dcharacterartist-gosari-us-review-260809/</guid>
       <pubDate>Sun, 09 Aug 2026 05:33:38 GMT</pubDate>
       <description><![CDATA[A Beginner’s Guide to Creating AAA-Level Textures in Substance Painter 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The First Steps in C4D, Complete with Cute 3D Characters]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dgraphicdesigner-byeonkiwoong-us-animation-260809/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dgraphicdesigner-byeonkiwoong-us-animation-260809/</guid>
-      <pubDate>Sun, 09 Aug 2026 04:47:32 GMT</pubDate>
-      <description><![CDATA[The First Steps in C4D, Complete with Cute 3D Characters 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
