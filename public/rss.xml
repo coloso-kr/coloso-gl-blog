@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[The Alluring Art of Endless Portraits: Ethereal Fantasy Done Right]]></title>
+      <link>https://coloso-gl-blog.vercel.app/conceptartist-alexchow-us-portraiture-260818/</link>
+      <guid>https://coloso-gl-blog.vercel.app/conceptartist-alexchow-us-portraiture-260818/</guid>
+      <pubDate>Tue, 18 Aug 2026 04:47:31 GMT</pubDate>
+      <description><![CDATA[The Alluring Art of Endless Portraits: Ethereal Fantasy Done Right 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Mastering Women's Haircuts: Disconnection Cut ABC+D]]></title>
       <link>https://coloso-gl-blog.vercel.app/hairdesigner-kimsanghee-us-haircutting-260818/</link>
       <guid>https://coloso-gl-blog.vercel.app/hairdesigner-kimsanghee-us-haircutting-260818/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/lightingartist-yongjaechoi-us-review-260810/</guid>
       <pubDate>Mon, 10 Aug 2026 07:39:18 GMT</pubDate>
       <description><![CDATA[Intro to Game Lighting for Unreal Engine 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Perfect Guide to Smooth Transitions: Scripts to Comic Pages]]></title>
-      <link>https://coloso-gl-blog.vercel.app/comicartist-mikimontllo-us-review-260810/</link>
-      <guid>https://coloso-gl-blog.vercel.app/comicartist-mikimontllo-us-review-260810/</guid>
-      <pubDate>Mon, 10 Aug 2026 05:33:39 GMT</pubDate>
-      <description><![CDATA[Perfect Guide to Smooth Transitions: Scripts to Comic Pages 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
