@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[From 2D to 3D: Craft Your Own Low-Poly Diorama Adventure!]]></title>
+      <link>https://coloso-gl-blog.vercel.app/clazroominstructor-kareen-us-diorama-260819/</link>
+      <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-kareen-us-diorama-260819/</guid>
+      <pubDate>Wed, 19 Aug 2026 07:39:36 GMT</pubDate>
+      <description><![CDATA[From 2D to 3D: Craft Your Own Low-Poly Diorama Adventure! 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Layout/Previs Processes From a Pixar Artist]]></title>
       <link>https://coloso-gl-blog.vercel.app/3ddesign-shaunkim-us-review-260819/</link>
       <guid>https://coloso-gl-blog.vercel.app/3ddesign-shaunkim-us-review-260819/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/pastrychef-kimranlee-us-baking-260812/</guid>
       <pubDate>Wed, 12 Aug 2026 04:47:33 GMT</pubDate>
       <description><![CDATA[Easy to Learn Designs for Beautifully Detailed Cakes 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Bake the Best Scone with Sejung's Golden Recipe]]></title>
-      <link>https://coloso-gl-blog.vercel.app/pastrychef-kimsejung-us-baking-260812/</link>
-      <guid>https://coloso-gl-blog.vercel.app/pastrychef-kimsejung-us-baking-260812/</guid>
-      <pubDate>Wed, 12 Aug 2026 01:01:11 GMT</pubDate>
-      <description><![CDATA[Bake the Best Scone with Sejung's Golden Recipe 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
