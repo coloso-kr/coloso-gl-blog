@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Advanced Character Animation: Stylized Realism in Motion]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dartist-joyof3d2-us-animation-260820/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dartist-joyof3d2-us-animation-260820/</guid>
+      <pubDate>Thu, 20 Aug 2026 05:33:39 GMT</pubDate>
+      <description><![CDATA[Advanced Character Animation: Stylized Realism in Motion 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[In Pursuit of Depth: Illustrating Scenes with Visual & Narrative Substance]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-qrbits-us-composition-260820/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-qrbits-us-composition-260820/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/gamegraphic-rosalee-us-pipeline-260813/</guid>
       <pubDate>Thu, 13 Aug 2026 01:01:04 GMT</pubDate>
       <description><![CDATA[Intro to 3D Character Modeling 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Introduction to 2.5D Animation with Blender Grease Pencil]]></title>
-      <link>https://coloso-gl-blog.vercel.app/animator-leedeebee-us-animation-260812/</link>
-      <guid>https://coloso-gl-blog.vercel.app/animator-leedeebee-us-animation-260812/</guid>
-      <pubDate>Wed, 12 Aug 2026 07:39:32 GMT</pubDate>
-      <description><![CDATA[Introduction to 2.5D Animation with Blender Grease Pencil 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
