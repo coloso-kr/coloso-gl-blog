@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Drawing Dynamic Action Scenes]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-guillemdauden-us-review-260821/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-guillemdauden-us-review-260821/</guid>
+      <pubDate>Fri, 21 Aug 2026 05:33:40 GMT</pubDate>
+      <description><![CDATA[Drawing Dynamic Action Scenes 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating Sci-fi Anime Scenery in Blender]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dartist-nikolaifletcher-us-3d-260821/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dartist-nikolaifletcher-us-3d-260821/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/motiondesigner-hidekiinaba-us-animation-260814/</guid>
       <pubDate>Fri, 14 Aug 2026 04:47:28 GMT</pubDate>
       <description><![CDATA[Create Fantastic Animations Using After Effects 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Congmom's Whipped Cream Cake Decorating Class]]></title>
-      <link>https://coloso-gl-blog.vercel.app/pastrychef-junghayeon-us-baking-260814/</link>
-      <guid>https://coloso-gl-blog.vercel.app/pastrychef-junghayeon-us-baking-260814/</guid>
-      <pubDate>Fri, 14 Aug 2026 01:01:17 GMT</pubDate>
-      <description><![CDATA[Congmom's Whipped Cream Cake Decorating Class 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
