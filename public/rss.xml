@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Original Characters and the World Around Them]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-lunydoobles-us-character-260822/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-lunydoobles-us-character-260822/</guid>
+      <pubDate>Sat, 22 Aug 2026 04:47:35 GMT</pubDate>
+      <description><![CDATA[Creating Original Characters and the World Around Them 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Easily Build Surreal Nature Scenes With C4D & Octane]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dvisualartist-florianrenaux-us-nature-260822/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dvisualartist-florianrenaux-us-nature-260822/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/conceptartist-parkjongwon-us-backgrounds-260815/</guid>
       <pubDate>Sat, 15 Aug 2026 01:01:04 GMT</pubDate>
       <description><![CDATA[Basics of Drawing Photorealistic Backgrounds 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[16 Successful Bread Recipes for Home Bakers]]></title>
-      <link>https://coloso-gl-blog.vercel.app/pastrychef-mommyoven-us-baking-260814/</link>
-      <guid>https://coloso-gl-blog.vercel.app/pastrychef-mommyoven-us-baking-260814/</guid>
-      <pubDate>Fri, 14 Aug 2026 07:39:15 GMT</pubDate>
-      <description><![CDATA[16 Successful Bread Recipes for Home Bakers 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
