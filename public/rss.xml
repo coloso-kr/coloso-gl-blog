@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating a Medieval Banquet Hall from Scratch in Blender]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dblenderartist-flaviusstefeliga-us-modifiers-260821/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dblenderartist-flaviusstefeliga-us-modifiers-260821/</guid>
+      <pubDate>Fri, 21 Aug 2026 07:39:15 GMT</pubDate>
+      <description><![CDATA[Creating a Medieval Banquet Hall from Scratch in Blender 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Drawing Dynamic Action Scenes]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-guillemdauden-us-review-260821/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-guillemdauden-us-review-260821/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/animationdirector-tezodonlee-us-animation-260814/</guid>
       <pubDate>Fri, 14 Aug 2026 05:33:37 GMT</pubDate>
       <description><![CDATA[Making Your Own Stylish Animated Music Video 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Create Fantastic Animations Using After Effects]]></title>
-      <link>https://coloso-gl-blog.vercel.app/motiondesigner-hidekiinaba-us-animation-260814/</link>
-      <guid>https://coloso-gl-blog.vercel.app/motiondesigner-hidekiinaba-us-animation-260814/</guid>
-      <pubDate>Fri, 14 Aug 2026 04:47:28 GMT</pubDate>
-      <description><![CDATA[Create Fantastic Animations Using After Effects 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
