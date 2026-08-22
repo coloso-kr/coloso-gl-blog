@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Storytelling within Seconds: Creating Loop Animations]]></title>
+      <link>https://coloso-gl-blog.vercel.app/2danimator-mulanfu-us-animation-260822/</link>
+      <guid>https://coloso-gl-blog.vercel.app/2danimator-mulanfu-us-animation-260822/</guid>
+      <pubDate>Sat, 22 Aug 2026 05:33:34 GMT</pubDate>
+      <description><![CDATA[Storytelling within Seconds: Creating Loop Animations 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating Original Characters and the World Around Them]]></title>
       <link>https://coloso-gl-blog.vercel.app/illustrator-lunydoobles-us-character-260822/</link>
       <guid>https://coloso-gl-blog.vercel.app/illustrator-lunydoobles-us-character-260822/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-zilali-us-illustration-260815/</guid>
       <pubDate>Sat, 15 Aug 2026 04:47:37 GMT</pubDate>
       <description><![CDATA[Create Your Own: Concept Art to Design 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Basics of Drawing Photorealistic Backgrounds]]></title>
-      <link>https://coloso-gl-blog.vercel.app/conceptartist-parkjongwon-us-backgrounds-260815/</link>
-      <guid>https://coloso-gl-blog.vercel.app/conceptartist-parkjongwon-us-backgrounds-260815/</guid>
-      <pubDate>Sat, 15 Aug 2026 01:01:04 GMT</pubDate>
-      <description><![CDATA[Basics of Drawing Photorealistic Backgrounds 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
