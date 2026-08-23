@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Get Started with Master Lighting in Maya]]></title>
+      <link>https://coloso-gl-blog.vercel.app/lightingartist-juditnavarro-us-lighting-260822/</link>
+      <guid>https://coloso-gl-blog.vercel.app/lightingartist-juditnavarro-us-lighting-260822/</guid>
+      <pubDate>Sat, 22 Aug 2026 07:39:17 GMT</pubDate>
+      <description><![CDATA[Get Started with Master Lighting in Maya 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Storytelling within Seconds: Creating Loop Animations]]></title>
       <link>https://coloso-gl-blog.vercel.app/2danimator-mulanfu-us-animation-260822/</link>
       <guid>https://coloso-gl-blog.vercel.app/2danimator-mulanfu-us-animation-260822/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/motiongraphic-parkyunho-us-motion-260815/</guid>
       <pubDate>Sat, 15 Aug 2026 05:33:41 GMT</pubDate>
       <description><![CDATA[Create One-of-a-Kind 2.5D Motion Graphics with After Effects 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Create Your Own: Concept Art to Design]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-zilali-us-illustration-260815/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-zilali-us-illustration-260815/</guid>
-      <pubDate>Sat, 15 Aug 2026 04:47:37 GMT</pubDate>
-      <description><![CDATA[Create Your Own: Concept Art to Design 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
