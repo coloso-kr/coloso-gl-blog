@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Line Art Techniques for Aesthetic Character Portraits]]></title>
+      <link>https://coloso-gl-blog.vercel.app/illustrator-ericruz-us-illustration-260823/</link>
+      <guid>https://coloso-gl-blog.vercel.app/illustrator-ericruz-us-illustration-260823/</guid>
+      <pubDate>Sun, 23 Aug 2026 01:01:03 GMT</pubDate>
+      <description><![CDATA[Line Art Techniques for Aesthetic Character Portraits 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Get Started with Master Lighting in Maya]]></title>
       <link>https://coloso-gl-blog.vercel.app/lightingartist-juditnavarro-us-lighting-260822/</link>
       <guid>https://coloso-gl-blog.vercel.app/lightingartist-juditnavarro-us-lighting-260822/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-palsomnath-us-anatomy-260815/</guid>
       <pubDate>Sat, 15 Aug 2026 07:39:13 GMT</pubDate>
       <description><![CDATA[The Anatomy of Distortion 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Create One-of-a-Kind 2.5D Motion Graphics with After Effects]]></title>
-      <link>https://coloso-gl-blog.vercel.app/motiongraphic-parkyunho-us-motion-260815/</link>
-      <guid>https://coloso-gl-blog.vercel.app/motiongraphic-parkyunho-us-motion-260815/</guid>
-      <pubDate>Sat, 15 Aug 2026 05:33:41 GMT</pubDate>
-      <description><![CDATA[Create One-of-a-Kind 2.5D Motion Graphics with After Effects 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
