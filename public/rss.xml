@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Character Modeling Tips That Bring Details to Life]]></title>
+      <link>https://coloso-gl-blog.vercel.app/3dzbrush-yangseungnam-us-likeness-260826/</link>
+      <guid>https://coloso-gl-blog.vercel.app/3dzbrush-yangseungnam-us-likeness-260826/</guid>
+      <pubDate>Wed, 26 Aug 2026 05:34:00 GMT</pubDate>
+      <description><![CDATA[Character Modeling Tips That Bring Details to Life 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Efficient Practices for Editorial Design with InDesign]]></title>
       <link>https://coloso-gl-blog.vercel.app/editorialdesign-kimsomi-us-indesign-260826/</link>
       <guid>https://coloso-gl-blog.vercel.app/editorialdesign-kimsomi-us-indesign-260826/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/illustrator-carooliveira-us-review-260819/</guid>
       <pubDate>Wed, 19 Aug 2026 04:47:28 GMT</pubDate>
       <description><![CDATA[Art Fundamentals & Style Exploration 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Create Stunning Stylized 3D Assets with Industry-Standard Techniques]]></title>
-      <link>https://coloso-gl-blog.vercel.app/clazroominstructor-khaihung-us-review-260819/</link>
-      <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-khaihung-us-review-260819/</guid>
-      <pubDate>Wed, 19 Aug 2026 01:01:04 GMT</pubDate>
-      <description><![CDATA[Create Stunning Stylized 3D Assets with Industry-Standard Techniques 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
