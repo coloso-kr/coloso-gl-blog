@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Efficient Practices for Editorial Design with InDesign]]></title>
+      <link>https://coloso-gl-blog.vercel.app/editorialdesign-kimsomi-us-indesign-260826/</link>
+      <guid>https://coloso-gl-blog.vercel.app/editorialdesign-kimsomi-us-indesign-260826/</guid>
+      <pubDate>Wed, 26 Aug 2026 04:47:31 GMT</pubDate>
+      <description><![CDATA[Efficient Practices for Editorial Design with InDesign 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating Original Portfolio Websites]]></title>
       <link>https://coloso-gl-blog.vercel.app/graphicdesign-parkhaneul-us-portfolio-260826/</link>
       <guid>https://coloso-gl-blog.vercel.app/graphicdesign-parkhaneul-us-portfolio-260826/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/clazroominstructor-khaihung-us-review-260819/</guid>
       <pubDate>Wed, 19 Aug 2026 01:01:04 GMT</pubDate>
       <description><![CDATA[Create Stunning Stylized 3D Assets with Industry-Standard Techniques 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Intro to High-Quality VFX with Houdini]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3ddesign-jangintae-us-simulation-260818/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3ddesign-jangintae-us-simulation-260818/</guid>
-      <pubDate>Tue, 18 Aug 2026 07:39:16 GMT</pubDate>
-      <description><![CDATA[Intro to High-Quality VFX with Houdini 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
