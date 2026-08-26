@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[Creating Original Portfolio Websites]]></title>
+      <link>https://coloso-gl-blog.vercel.app/graphicdesign-parkhaneul-us-portfolio-260826/</link>
+      <guid>https://coloso-gl-blog.vercel.app/graphicdesign-parkhaneul-us-portfolio-260826/</guid>
+      <pubDate>Wed, 26 Aug 2026 01:01:14 GMT</pubDate>
+      <description><![CDATA[Creating Original Portfolio Websites 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Creating Trendy ZEPETO Items Using Blender]]></title>
       <link>https://coloso-gl-blog.vercel.app/creative-sini-us-review-260825/</link>
       <guid>https://coloso-gl-blog.vercel.app/creative-sini-us-review-260825/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3ddesign-jangintae-us-simulation-260818/</guid>
       <pubDate>Tue, 18 Aug 2026 07:39:16 GMT</pubDate>
       <description><![CDATA[Intro to High-Quality VFX with Houdini 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Next Level Procedural Material Creation]]></title>
-      <link>https://coloso-gl-blog.vercel.app/3dartist-jarredeverson-us-review-260818/</link>
-      <guid>https://coloso-gl-blog.vercel.app/3dartist-jarredeverson-us-review-260818/</guid>
-      <pubDate>Tue, 18 Aug 2026 05:33:45 GMT</pubDate>
-      <description><![CDATA[Next Level Procedural Material Creation 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
