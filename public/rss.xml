@@ -8,6 +8,13 @@
     <atom:link href="https://www.coloso-gl.blog/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title><![CDATA[3D Anatomy Using Zbrush]]></title>
+      <link>https://coloso-gl-blog.vercel.app/gamegraphic-kimkyoungsoo-us-anatomy-260826/</link>
+      <guid>https://coloso-gl-blog.vercel.app/gamegraphic-kimkyoungsoo-us-anatomy-260826/</guid>
+      <pubDate>Wed, 26 Aug 2026 07:39:17 GMT</pubDate>
+      <description><![CDATA[3D Anatomy Using Zbrush 강의 정보 및 실무 노하우 리뷰]]></description>
+    </item>
+    <item>
       <title><![CDATA[Character Modeling Tips That Bring Details to Life]]></title>
       <link>https://coloso-gl-blog.vercel.app/3dzbrush-yangseungnam-us-likeness-260826/</link>
       <guid>https://coloso-gl-blog.vercel.app/3dzbrush-yangseungnam-us-likeness-260826/</guid>
@@ -209,13 +216,6 @@
       <guid>https://coloso-gl-blog.vercel.app/3ddesign-shaunkim-us-review-260819/</guid>
       <pubDate>Wed, 19 Aug 2026 05:33:33 GMT</pubDate>
       <description><![CDATA[Layout/Previs Processes From a Pixar Artist 강의 정보 및 실무 노하우 리뷰]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Art Fundamentals & Style Exploration]]></title>
-      <link>https://coloso-gl-blog.vercel.app/illustrator-carooliveira-us-review-260819/</link>
-      <guid>https://coloso-gl-blog.vercel.app/illustrator-carooliveira-us-review-260819/</guid>
-      <pubDate>Wed, 19 Aug 2026 04:47:28 GMT</pubDate>
-      <description><![CDATA[Art Fundamentals & Style Exploration 강의 정보 및 실무 노하우 리뷰]]></description>
     </item>
   </channel>
 </rss>
